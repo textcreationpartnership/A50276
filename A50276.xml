@@ -1,0 +1,1367 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fax nova artis scribendi, or, An introduction (by way of dialogue) to the best forms and proportions of all letters, in each hand most useful, and excellent for all business both in clerkship and trade : to which is added, rules for spelling and pointing : as also, a table of abbreviations, so large that it will facilitate both the writing and reading of any business at common or civil law : together with some directions which may be beneficial for a clerk in the progress of his whole clerkship / by John Matlock ....</title>
+            <author>Matlock, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 88 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50276</idno>
+            <idno type="STC">Wing M1292A</idno>
+            <idno type="STC">ESTC R19209</idno>
+            <idno type="EEBO-CITATION">12561110</idno>
+            <idno type="OCLC">ocm 12561110</idno>
+            <idno type="VID">63185</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50276)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63185)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 768:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fax nova artis scribendi, or, An introduction (by way of dialogue) to the best forms and proportions of all letters, in each hand most useful, and excellent for all business both in clerkship and trade : to which is added, rules for spelling and pointing : as also, a table of abbreviations, so large that it will facilitate both the writing and reading of any business at common or civil law : together with some directions which may be beneficial for a clerk in the progress of his whole clerkship / by John Matlock ....</title>
+                  <author>Matlock, John.</author>
+               </titleStmt>
+               <extent>[10], 37, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Leake for the author, and are to be sold by Luke Meredith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clerks --  Handbooks, manuals, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63185:1"/>
+            <pb facs="tcp:63185:1"/>
+            <p>
+               <hi>Fax Nova Artis Scribendi:</hi> OR, AN INTRODUCTION (By way of DIALOGUE) To the beſt FORMS and PROPORTIONS of all <hi>LETTERS,</hi> in each Hand moſt uſeful; and excellent for all buſineſs both in <hi>Clerkſhip</hi> and <hi>Trade.</hi>
+            </p>
+            <p>To which is added, RULES for <hi>SPELLING</hi> and <hi>POINTING.</hi>
+            </p>
+            <p>AS ALSO, A <hi>TABLE</hi> of Abbreviations, ſo large that it will facilitate both the <hi>Writing</hi> and <hi>Reading</hi> of any buſineſs at <hi>Common</hi> or <hi>Civil Law.</hi> Together, with ſome Directions which may be beneficial for a CLERK in the progreſs of his whole Clerkſhip.</p>
+            <q>—Peragunt Linguae Charta manuſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> vices.</q>
+            <p>By <hi>JOHN MATLOCK,</hi> of the City of <hi>Lich<g ref="char:EOLhyphen"/>field,</hi> Philographer.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Leake,</hi> for the Author; and are to be ſold by <hi>Luke Meredith,</hi> at the <hi>King</hi>'s <hi>Head,</hi> at the Weſt-End of St. <hi>Paul</hi>'s <hi>Church-Yard.</hi> MDCLXXXV.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:63185:2"/>
+            <pb facs="tcp:63185:2"/>
+            <head>THE PREFACE.</head>
+            <p>THE deviſing and finding out of <hi>Letters</hi> has ever, by the Sage and Prudent of all Ages, been adjudged as one of the rareſt, and moſt heavenly Inventions of all that are in uſe in Humane Society, both in reſpect of its excellency in contrivance, and alſo for the extenſiveneſs of its benefits. For the ex<g ref="char:EOLhyphen"/>cellency of its contrivance; it is almoſt a Miracle, that a Meane could be invented, whereby Words and Sounds, which naturally be the Objects of the Ear, ſhould be made the Objects of the Eye. This is in<g ref="char:EOLhyphen"/>deed a moſt admirable Invention, that Sounds and Voices ſhould by the power of certain Characters (as it were by charms) be ſtoln away, from their own proper ſenſe, and conveyed into another by <hi>Leger-du-main,</hi> and ſo made an object of the fame. This, I ſay, is a very wonder, and among all the Senſes not to be found in any other: No Invention ever yet could make the object of Seeing the object of Hearing; nor the object of Hearing the object of
+<pb facs="tcp:63185:3"/>Smelling; nor the object of Smelling the object of Feeling: only the object of Hearing, by this Invention of Letters, is made (in ſome ſort) the object of See<g ref="char:EOLhyphen"/>ing. And as it is excellent for its Contrivance, ſo it is no leſs for its Benefit: For by Writing we have the comfort of God's Holy Word continued to us; which from Writing receiveth its denominati<g ref="char:EOLhyphen"/>on, in being called Scripture; which is nothing elſe but Writing: By this we have the Monuments of Antient Times communicated unto us, and all good Arts and Learning derived unto Mankind. By Wri<g ref="char:EOLhyphen"/>ting, we may give direction for our Foreign buſi<g ref="char:EOLhyphen"/>neſs, though we ſtay at home; and for our Dome<g ref="char:EOLhyphen"/>ſtick, though we be abroad. By Writing, we may confer with our abſent Friend as freely as with a pre<g ref="char:EOLhyphen"/>ſent Neighbour; communicating all our counſels as ſecretly and cloſely, as if we ſhould whiſper in one anothers Ears, though we be divided many Miles a<g ref="char:EOLhyphen"/>ſunder: By this, we are furniſhed with invincible Arguments, to fight againſt the Factious and Sediti<g ref="char:EOLhyphen"/>ous Enemies of Church and State; theſe, and infi<g ref="char:EOLhyphen"/>nite like Bleſſings are conveyed unto Men, by the benefit of Writing. The only motive that incou<g ref="char:EOLhyphen"/>raged me to this trouble, was, my being wearied through a long travel after exact Writing, in thoſe many ways chalked out by <hi>Penmen</hi> both Antient and Modern; which being <hi>many,</hi> cannot <hi>all</hi> be excel<g ref="char:EOLhyphen"/>lent; for Perfection is ſingle, and cannot conſiſt in
+<pb facs="tcp:63185:3"/>plurality of ways, to one and the ſame end. This <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngle, and beſt way, both in reſpect of the form of Characters, and alſo in the manner of making them, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as never yet been demonſtrated, either by Rules, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Examples. The beſt Rules to Hand-Writing have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een publiſhed by Mr. <hi>Cocker,</hi> and theſe are many, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd very excellent. But their full extent is too <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ort, to regulate the Errors that may happen in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y one Character: He having given by them, no <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpleat proportion of any Letter: And its impoſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>le to have a right underſtanding of the proportion <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any Superficies, without a true knowledge of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e length and breadth of each part thereof: And <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere can be no Extream, where there are no Rules <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r a Meane. Now if Mr. <hi>Cocker,</hi> or any other Mo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rn Penmen, have publiſhed ſuch Rules as will cor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct the Extreams, that may be committed in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riting of any Hand, I ſhall willingly ſubmit that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſe my Papers be Burnt, and my ſelf pointed at. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd that it is abſolutely neceſſary, to have a true know<g ref="char:EOLhyphen"/>dge of the due, and juſt proportions of Letters, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>order to the attaining of an excellency in Wri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>g, I judge, I need not go about to prove: <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ker,</hi> and the beſt of Penmen, having acknow<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge it. Therefore, I hope, the following Tract, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll be entertained with a kind acceptance: where<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is chalked out a way ſingle, ſhort, and eaſie, to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> beſt way of Writing, in laying down Three un<g ref="char:EOLhyphen"/>deniable
+<pb facs="tcp:63185:4"/>Principles; and from thence branching o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch Rules as will prove and regulate every pa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and particle of all Letters, in each uſeful Hand which may ſerve as an Ax to cut off the unneceſſar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> young Suckers, and alſo the old withered Branche. By which husbandry, I doubt not, but that Hand Writing will thrive to a greater perfection. And (kind Reader) it was not the deſire of being ſee in the Preſs, that moved me to this publick Work but my Favour, and kindneſs to the Art and Artiſt who have been not a little abuſed by Engrave<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (for ſo I call them, rather than Penmen) who ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made it their buſineſs to burthen this Kingdom wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> almoſt an innumerable number of Copy-Books (ſome of them being as uſeleſs and ridiculous <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Dr. <hi>Donn</hi>'s Sun-Dyal in a Grave) which ha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> made ſuch a confuſion, that its difficult to diſtingui<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> between good and bad; They being like Moc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> guides, that point to a Traveller twenty ways once, never conſtant, but ever changing. Now wiſh, that you may take as great delight in the p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ctice of theſe things herein contained, as I to<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> pains in the Compoſing of them; ſo ſhall the bour be well beſtowed by,</p>
+            <closer>
+               <signed>Your Friend, <hi>JOHN MATLOC</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:63185:4"/>
+            <head>TO MY HONOURED FRIENDS, THE BROTHERS OF THE QUILL.</head>
+            <p>THE Devil <hi>Calumny</hi> (ſaith the Learned <hi>Eraſmus</hi>) doth ſo rage againſt all Men, and all Things, in theſe Days, that it is not ſafe ſetting out any thing unguard<g ref="char:EOLhyphen"/>ed. If Integrity of the End may plead for my <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtaking, I may preſume you will not deny it Patronage: Its <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ief Defign being to free both the <hi>Art,</hi> and <hi>You</hi> the Artiſts, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om the erroneous Judgment of Irregular Phancies; and to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aken the lazy Drowſineſs of Others, that are loath to be row<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d out of Phancy's pleaſing Dream: There being a ſort of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elancholy, and drowſie Scribes, that can phancy nothing but <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>entaurs,</hi> and <hi>Minotaurs;</hi> and the beſt of Characters by theſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hancy-Mongers, are condemned as Flat and Stiff, if they are
+<pb facs="tcp:63185:5"/>not ſet off by ſome of their monſtrous Fictions. But let the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> delight to guild their baſer Mettal, whil'ſt Gold ſhines in i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Native Luſtre. <hi>Writing</hi> is, by the Learned, acknowledged fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an Art, though, I think, it was never yet proved; and by ſom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (who are reckoned for Maſters of <hi>Writing</hi>) only for a Phancy: judge, theſe laſt can never be thought, by well-grounded Artiſts Maſters of that Art they deny the Method of; and eſpecially, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the following Lines be well conſidered: Wherein is firſt proved That <hi>Writing</hi> is an Art; and then ſhew'd, how far Phancy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be conſidered therein. The <hi>Firſt,</hi> That <hi>Writing</hi> is an Art I prove thus: The Practice of a certain Method, that's a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Art. But <hi>Writing</hi> is the Practice of a certain Method; <hi>Ergo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Writing</hi> is an Art. Of the <hi>Major,</hi> or Firſt Propoſition, <hi>An<g ref="char:EOLhyphen"/>ſtotle,</hi> in his Sixth Book of <hi>Ethicks,</hi> calls that an Art, which is th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Practice of a certain Method. And <hi>Velcurio,</hi> in his Comme<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tary upon the <hi>Univerſal Philoſophy</hi> of <hi>Ariſtotle, Lib. I. cap 9.</hi> thus defines Art: <hi>Ars eſt habitus animi intellectu a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quiſitus, conſtans ex certis Regulis, per Experientiam pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>batis, &amp; exercitationem Cognitis.</hi> And for the <hi>Minor,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Aſſumption, it is clear, the ſeveral Forms of Characters, b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing only legible, and diſtinctly known by their certain <g ref="char:V">Ʋ</g>ſe an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Form. Alſo, obſerve, that every thing is performed by <hi>A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Natural Power,</hi> or <hi>Habit. Firſt,</hi> By <hi>Art,</hi> when the Acti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> proſecutes a certain Method. <hi>Secondly,</hi> By <hi>Natural Pow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> when it's performed meerly by the Inſtinct of Nature. <hi>Si<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Luſcinia ſecundum Naturalem potentiam non ſecundum A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tem, tamen optime canit. Thirdly,</hi> By <hi>Habit,</hi> when it only by Cuſtom and Exerciſe. <hi>Sic mediocriter periti num<g ref="char:EOLhyphen"/>rant, loquuntur ſine Arte adjuti Exercitatione.</hi> No M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can be Maſter either of <hi>Natural Power,</hi> or of <hi>Habit:</hi> Not <hi>Natural Power,</hi> for that's the Gift of <hi>God</hi> alone, as <hi>Ovid:</hi>
+               <q>
+                  <l>Eſt Deus in nobis: agitante calleſcunus illo</l>
+                  <l>Sedibus Aethereis Spiritus ille venit.</l>
+               </q>
+               <pb facs="tcp:63185:5"/>Not of <hi>Habit</hi> different from <hi>Art;</hi> for every <hi>Habit</hi> conſiſts ei<g ref="char:EOLhyphen"/>ther in the Mind, or in ſome Member of the Body: And what is performed by <hi>Art,</hi> is according to the Intellective <hi>Habit</hi> of the Mind; as <hi>Velcurio: Artis vocabulo utimur pro ha<g ref="char:EOLhyphen"/>bitu animi intellectivo, ſecundum quem, homo facilius &amp; melius poteſt aliquid intelligere, agere, &amp; praeſertim facere, vel fabricari.</hi> And the Members of the Body are incapable of Inſtruction. <hi>Quod nemo didicit nemo docere poteſt.</hi> Now then, it muſt follow; No Art, no Writing; No Method, no Maſter. And, Arts being different, it will not be amiſs to give you the Definition of the <hi>Art of Writing.</hi>
+            </p>
+            <p>
+               <hi>Writing</hi> is an Art, which, by the Exerciſe of the <hi>Pen,</hi> makes Words legible. Now, every Art conſiſts of Two Parts, <hi>(viz.)</hi> of <hi>Method,</hi> and <hi>Practice: 1.</hi> Of <hi>Method,</hi> in a compendious, and certain way and means of Art, delivered by Rules, Precepts, and Inſtitutions. <hi>2.</hi> Of <hi>Practice,</hi> in an Exerciſe and <g ref="char:V">Ʋ</g>ſe of the ſame. The next to be conſidered, is <hi>Phancy;</hi> wherein you may obſerve, That there is nothing in the <g ref="char:V">Ʋ</g>nderſtanding, ex<g ref="char:EOLhyphen"/>cept it be firſt in the Senſe: for as common Senſe judgeth of Shape, from the outward, ſenſible, material Shape; and <hi>Phan<g ref="char:EOLhyphen"/>cy</hi> not only conceives the ſame material Shape, but alſo feigns and imagines like Idols, or ſuch Shapes of the Intentions. So the <g ref="char:V">Ʋ</g>nderſtanding receives the perceived Shapes, or deviſed by Similitude, from <hi>Phancy</hi> altogether immaterial; and feigns and judges them more ſignificantly and clearly, whether or no they be Good or Bad. As every Letter or Character is firſt conceived in the Senſe, and feign'd and imagin'd, before it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e made by the Pen; ſo the <g ref="char:V">Ʋ</g>nderſtanding judges of the Cha<g ref="char:EOLhyphen"/>racter, when it's made into an outward material Shape: So <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat, from hence may be obſerved, That <hi>Underſtanding</hi> is the Judge of <hi>Phancy;</hi> and then, conſequently, <hi>Phancy</hi> cannot be Judge of <hi>Writing. Phancy</hi> has one more Office conſiderable <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the <hi>Art of Writing;</hi> which is, more deeply to impreſs up<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n it ſelf the Shapes offered from common Senſe, in the Ab<g ref="char:EOLhyphen"/>ſence of the Object: as after the viewing of an excellent Let<g ref="char:EOLhyphen"/>ter,
+<pb facs="tcp:63185:6"/>a deep Impreſſion of its Form remains upon the <hi>Phancy,</hi> in Abſence of the Copy.</p>
+            <p>Now, theſe Premiſes being granted, and my ſelf being the Firſt, who not only hath proved <hi>Writing</hi> to be an <hi>Art,</hi> (and ſo, conſequently, to conſiſt of <hi>Method</hi> and <hi>Practice</hi>) but have alſo preſcribed ſuch a <hi>Method,</hi> as will regulate every Chara<g ref="char:EOLhyphen"/>cter of each uſeful Hand: I am not afraid to challenge my Priority, nor to conclude with my Anagram;</p>
+            <closer>Calamus eſt mihi honos.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:63185:6"/>
+            <head>
+               <hi>Fax Nova Artis Scribendi.</hi> IN A DIALOGUE Between the Maſter and Scholar: Teaching the ART and USE OF WRITING.</head>
+            <sp>
+               <speaker>Scholar,</speaker>
+               <p>SIR, my Addreſs to you is, to deſire your aſſiſtance, in Teaching me to <hi>Write.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Maſter,</speaker>
+               <p>I am ready to aſſiſt you, or any other perſon, who deſires my Directions, to the utmoſt of my ability.</p>
+            </sp>
+            <pb n="2" facs="tcp:63185:7"/>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>I ſhall think my ſelf obliged in an infinite Gratitude, and will pay you to your content.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>It very much rejoyces me to have the good fortune to meet with a Scholar that promiſes ſo well; and I doubt not, but that your love to the Art will appear in your dili<g ref="char:EOLhyphen"/>gence to acquire it. The truth is, for a Man to Write well, it is very neceſſary to be in good Humor; of a ſe<g ref="char:EOLhyphen"/>rene and chearful Spirit, and not overcaſt with clouds of Melancholy; Phanſie being no leſs eclipſed with the un<g ref="char:EOLhyphen"/>quietneſs of mind, than Beauty with the indiſpoſition of the body. What imployment are you intended for? I ask you, becauſe I would make choice of ſuch proper Hand, or Hands, as may be moſt requiſite.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>I am uncertain of that yet; therefore I deſire to learn all uſeful Hands, that thereby I may be fitted for any buſineſs.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>Now I know your deſign, I ſhall proceed with you in ſuch a Method as will, doubtleſs, lead you to your de<g ref="char:EOLhyphen"/>ſires. And that you may the better underſtand what you are to Learn, and I to Teach, you are to obſerve, That <hi>Writing</hi> is an Art conſiſting of two parts; Method, and Practice: and as Method without Practice avails nothing, ſo Practice without Method avails as little; therefore, I ſhall in the firſt place inſtruct your Hand with ſuch pre<g ref="char:EOLhyphen"/>cepts as may give you the true knowledge of your deſires: that thereby you may underſtand how to guide your Hand. And then, and not till then, I think it convenient to let you imitate, or Write by a Copy. For to begin to Write after a Copy before you know how to manage both your Hand and Pen, your ſucceſs is like to be equal with that of the Pilot at Sea, who is furniſhed with Inſtruments fit for his Navigation, but is altogether ignorant as to their uſe; and you cannot but judge, but that a Voyage under the Conduct of ſuch a Pilot is very hazzardous. Therefore, in the firſt place, learn how to Sit to Write, and Hold your Pen.
+<pb n="3" facs="tcp:63185:7"/>Sit ſo high that you may with eaſe place your Elbow cloſe to your Body, and your Hand ſtraight from you, ſo that you may, without daubing, give every ſtroke naturally its perfect full and ſmall: Then obſerve to ſit upright, and not writheing your Body, but ſtraight, bearing your Breaſt from your Desk, or Table whereon you Write. Then hold your Pen between your two Fore-fingers and Thumb; your Fingers being almoſt extended to their full length, and your Thumb-joint bent outward; your other two Fingers bent inward, and upon the end thereof reſt, and move your Hand; your Pen alſo being reſted upon the end of your Second Finger cloſe to the Nail thereof. Your Pen and Hand being thus held, you may make any ſtroke of a reaſonable length, without moving your Hand either upwards or downwards, only by the motion of your two Fore-Fingers and Thumb: for if your Thumb be bent out<g ref="char:EOLhyphen"/>ward in the joint, you may extend your Pen upwards and downwards, at leaſt an inch, to the making of any ſtroke without moving your Hand. So that you need move your whole Hand no way but ſtraight forward, towards the end of the Line. Theſe Rules being obſerved, you will alſo ſoon learn to Write ſtraight.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>An Acquaintance of mine holds his Pen between his Fore-f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inger and Thumb only, and prefers that way before all others.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>That way of holding the Pen was Uſed and Taught by <hi>Friſius,</hi> a French Maſter, who only wrote <hi>Italian</hi> Hands <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o. And I judge this way of holding the Pen in Writing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hoſe Hands beſt, by reaſon that way of Writing is the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ighteſt, and with the leaſt obſtruction; but in the wri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing of our <hi>Engliſh</hi> Hands it is not ſo; they requiring a heaier <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oize of Hand, which is not ſo well performed by one Fin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er and Thumb.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>I will ſubmit unto your judgment, and will endeavour <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>loſely to treaſure up all your directions.</p>
+            </sp>
+            <pb n="4" facs="tcp:63185:8"/>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>Let this alſo be for your Encouragement, that the Principles of this Art do not dernand an endleſs Labour; but are contain'd in a few eaſie Documents of meet Pro<g ref="char:EOLhyphen"/>portions, which will preſent unto you an open and ready Acceſs unto the moſt inward Secrets of the Art.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>Theſe Words much encourage me; for I have much doubted the Attainment of the Art of <hi>Writing,</hi> upon the account of the great Number of Copy-Books extant by Mr. <hi>Coeker</hi> and Others.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>Many lively Spirits have been over-whelmed in the miſleading Labyrinth of the confuſed Examples of Mr. <hi>Cock<g ref="char:EOLhyphen"/>er,</hi> and other Modern Penmen; who have invented or al<g ref="char:EOLhyphen"/>tered a vaſt number of Hands, very uſeleſs and inſignifi<g ref="char:EOLhyphen"/>cant; which will appear by the enſuing Diſcourſe: And by their Rules, no Man can judge which is beſt of their Works, their Rules not reaching the Proof of any one Hand; they altogether neglecting the chiefeſt, and moſt excellent Principles, <hi>viz. Firmneſs,</hi> and <hi>Expedition;</hi> and having only a general Reſpect to <hi>Beauty.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>I have heard much in the Commendation of Mr. <hi>Cocker</hi>'s Works; and in One he writes himſelf, <hi>ENGLAND</hi>'s <hi>PENMAN.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>I have had as great an Eſteem for the Works of Mr. <hi>Cocker,</hi> as for the Works of any Engraver: And I judge, that he might have, in his Time, as great Skill in the <hi>Art of Writing,</hi> as any other Perſon what-ever. But I alſo judge, that if his <hi>Rules</hi> had been more copious and certain, and his <hi>Examples</hi> fewer, he might have given a Greater Light than he did, into the Knowledge of <hi>Writing.</hi> You will, I imagine, be more diſcerning to judge of Mr. <hi>Cocker</hi>'s Works, and Others, before You and I part, if you well weigh the following <hi>Diſcourſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>I am uncapable of Judging, as yet; what I may be, I know not: But this I know, that there is but one Beſt; and, if ſo, I may be ſure, that there muſt be a
+<pb n="5" facs="tcp:63185:8"/>great de<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of Rubbiſh amongſt ſo much Variety.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>In this you err, ſaying, That there is but one Beſt Hand; for as there is variety of Buſineſs, ſome requiring a ſhorter, and others a longer Continuance; ſo it is abſolutely neceſſary, that there be Hands alſo of a greater, and leſſer Firmneſs. And likewiſe, it being judged convenient, that the ſeveral Courts, (<hi>viz.</hi>) the Courts of <hi>King</hi>'s-<hi>Bench, Common-Pleas,</hi> and <hi>Chancery,</hi> ſhould uſe diſtinct Characters for their Records: So that, from hence you cannot but conclude, as it is abſolutely requiſite to have ſeveral ſorts of Hands for ſeveral Uſes; ſo there may be a Beſt of each ſort.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>I am very well ſatisfied with what you have ſaid: But pray then (<hi>Sir</hi>) inform me, how many Hands are requi<g ref="char:EOLhyphen"/>ſite for me to Learn, to quallifie me for the beſt <hi>Writing</hi> of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny ſort of Buſineſs?</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>There are but <hi>Five</hi> Beſt in uſe for a Man, and <hi>One</hi> for a Woman.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>But <hi>Five!</hi> If this be ſo, ſurely Mr. <hi>Cocker,</hi> and O<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hers, have taken great Pains to ſmall Purpoſe, to publiſh ſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>any.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>That you may be the better ſatisfied of this, I will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cquaint you with the Uſe of <hi>Writing</hi> in general; and then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive you the Uſe of each particular Hand. Of the <hi>Friſt:</hi>
+               </p>
+               <p>
+                  <hi>Writing</hi> is the Recording in legible Characters, any Pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eedings at Law, Evidences of Land, Book-Entries, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>piſtles. All the Records of Courts, and Evidences of Land, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight to be wrote in a Firm and Subſtantial Hand; ſo that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey may remain Legible for ever: for what is of a perpetual <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oncern, requires a perpetual Duration. Book-Entries, as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>op-Books, and the like, being of leſs Duration, they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight to be wrote in a Hand of a leſſer Subſtance. And, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for Letters, they requiring no longer Duration almoſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an their Reading, they cannot be written too ſmall or faint, Legible.</p>
+               <pb n="6" facs="tcp:63185:9"/>
+               <p>And now I have given you the Uſe of <hi>Writing</hi> i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> general; together, with the Reaſons of Firmneſs, or Faintneſs of Hands, according to my promiſed Proſecution; it remains, that I give you the Uſe of each Hand in Particular: In or<g ref="char:EOLhyphen"/>der to which, I will inform you what Hands are uſed for the Ingroſſing of all Records; which are <hi>Court, Chancery, Set,</hi> and <hi>Text.</hi> All the Proceedings both in the <hi>King</hi>'s-<hi>Bench,</hi> and <hi>Common-Pleas,</hi> are, or ought to be, Recorded in <hi>Court-Hand,</hi> either Great or Small. And, as this <hi>Hand</hi> is of great Antiquity, without almoſt any Alteration; ſo it is moſt excellently deſign'd for its Uſe: For no <hi>Hand</hi> is graceful<g ref="char:EOLhyphen"/>ly wrote ſo cloſe; therefore its the more fit for Writs, and ſuch cloſe Ingroſſments: nor no <hi>Hand</hi> more Firm, and Sub<g ref="char:EOLhyphen"/>ſtantial. The whole Subſtance of each Character requi<g ref="char:EOLhyphen"/>ring the flat Application of the <hi>Pen,</hi> for the Performance; therefore the more durable; and ſo, conſequently, the more Excellent for Records.</p>
+               <p>The next <hi>Hand</hi> that takes place, is <hi>Chancery;</hi> which is, I think, of no leſs Antiquity than the Former: And for its Firmneſs, for the ſame Reaſon alledged in the <hi>Court,</hi> is as Excellent. But it is not written gracefully, ſo cloſe as the <hi>Court.</hi> This <hi>Hand</hi> is called <hi>Chancery,</hi> by reaſon tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all <hi>Chancery</hi> Proceedings are, or ought to be, written in it; no <hi>Court,</hi> beſides it, uſing the ſame Character.</p>
+               <p>Now the <hi>Set-Hand</hi> is thought fitteſt, and beſt for Ingroſ<g ref="char:EOLhyphen"/>ſing all Evidences of Lands, as Bargains, and Sales, Feoſ<g ref="char:EOLhyphen"/>ments, Joyntures, Leaſes, Wills, and all other Deeds, where by any Lands are conveyed; it being alſo a very Subſtan<g ref="char:EOLhyphen"/>tial <hi>Hand;</hi> and being uſed ſo frequently, is thereby becom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Legible to all that can read any <hi>Manuſcript.</hi>
+               </p>
+               <p>
+                  <hi>Text-Hand</hi> is moſt properly uſed for Ornament, and fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Marks; whereby any Part of a Deed may be diſcovered b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a ſudden Inſpection; and, if well written, anſwers its en<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as for its Beauty, exceeding well; no <hi>Hand</hi> admitting <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> more Beautiful Proportions: And, for its other End, 'tis <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ry
+<pb n="7" facs="tcp:63185:9"/>Excellent, its Character being far larger than the reſt of the <hi>Writing.</hi> It points out the Premiſes, <hi>Habendum, Tenen<g ref="char:EOLhyphen"/>dum,</hi> and each particular Covenant; ſo that, if you have a long Deed before you, you may look to any Part you deſire, without reading any more than the Part looked for.</p>
+               <p>And now I have done with the <hi>Four Hands,</hi> uſed for Ingroſſments: It remains yet to ſpeak of <hi>Hands</hi> fitteſt, and beſt for Book-Entries.</p>
+               <p>
+                  <hi>Hands,</hi> ſaid I? There you might oppoſe me, and anſwer, That there is but one Beſt: For two Superlatives, cannot ac<g ref="char:EOLhyphen"/>cord with ſeveral Operations to one Effect. And ſeeing there cannot be but one beſt for this Buſineſs, I will inform you, from Three undeniable Principles of this <hi>Art,</hi> what ſort of <hi>Hand</hi> is Beſt.</p>
+               <p>That <hi>Hand</hi> is Beſt, that is as <hi>Firm</hi> as the Duration there<g ref="char:EOLhyphen"/>of requireth; and alſo is the moſt <hi>Expeditious,</hi> and <hi>Beau<g ref="char:EOLhyphen"/>tiful.</hi> Theſe Three Principles are the only Touch-Stone, to try all <hi>Hands.</hi>
+               </p>
+               <p>So that, if you be to judge of a Piece of <hi>Writing;</hi> firſt, Obſerve whether it be written ſo <hi>Firm,</hi> that it may endure ſo long as the Buſineſs therein written requireth. Then obſerve the <hi>Expeditiouſneſs</hi> of the <hi>Hand:</hi> And then the Neatneſs, or <hi>Beauty</hi> thereof. And let your Judgment ever paſs for that <hi>Hand,</hi> that cometh the neareſt theſe Three Principles.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>You have, I thank you, enlightned my Judgment very much, in theſe Three Principles, or Fundamentals. But it will be a very difficult, and tedious Search, to find out the beſt <hi>Hand</hi> for the Uſe laſt before-mentioned, if I were to ſearch it out amongſt the almoſt innumerable Engraven <hi>Hands</hi> extant: Therefore, pray be ſo kind, as to let me know the Name of the <hi>Hand?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>If I ſhould tell you <hi>Secretary,</hi> you would neverthe<g ref="char:EOLhyphen"/>leſs be very much puzzled to find out the Beſt for your Uſe; there being ſo great a number of differing <hi>Hands,</hi>
+                  <pb n="8" facs="tcp:63185:10"/>called by the name of <hi>Secretary.</hi> But if you were ſo great a Critick, as to find amongſt the <hi>Hands</hi> extant, whether it were <hi>Secretary, Mixt,</hi> or <hi>Italian,</hi> or any other the very Beſt of all amongſt them, for your uſe: yet, let me tell you, That it will fall ſhort of anſwering theſe Three Principles before-mentioned: For neither Mr. <hi>Cocker,</hi> nor any other Penman, either Antient or Modern, ever reduced <hi>Writing</hi> to any Certainty, either in reſpect of <hi>Firmneſs</hi> or <hi>Expediti<g ref="char:EOLhyphen"/>on,</hi> before my ſelf, (I think, I may truly ſay.) Therefore, for your Satisfaction, I will ſhew you a <hi>Hand</hi> of my own ordering, according to the Three Principles afore-mention<g ref="char:EOLhyphen"/>ed, for Book-Entries, or any other Buſineſs, excepting In<g ref="char:EOLhyphen"/>groſſments; and I would adviſe you to make uſe of That, till you meet with a Better. And now I have (I hope) ſufficiently proved, That there are but <hi>Five Hands</hi> Beſt, for the Writing of all ſorts of Buſineſs.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>I am very well ſatisfied; and I deſire I may Write theſe <hi>Five</hi> Beſt, and I care not who Writes the reſt. But, <hi>Sir,</hi> ſeeing you have been ſo kind, as to inform me with the <hi>Fundamentals,</hi> or <hi>Principles,</hi> pray let me alſo know, wherein they conſiſt?</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>I will inſiſt upon them very plainly, and fully; for in them conſiſteth the whole Marrow of <hi>Writing;</hi> they being the Baſis, upon which the whole Structure is built.</p>
+               <p>For the <hi>Firſt,</hi> which is <hi>Firmneſs;</hi> I Anſwer, That <hi>Firm<g ref="char:EOLhyphen"/>neſs</hi> conſiſteth in the Fulneſs of Strokes: So that, that <hi>Hand</hi> is moſt Firm and Durable, whoſe Characters are, in their ſeveral Differences, performed by the Full of the <hi>Pen.</hi> And how Firm each <hi>Hand</hi> ought to be, I have already proved.</p>
+               <p>For the <hi>Second,</hi> which is <hi>Expedition;</hi> I ſay, That the leſſer Compaſs the <hi>Pen</hi> doth move in performing any Letter, that it's the more Expeditious. And that the taking off the <hi>Pen,</hi> in the making of any Letter, or in the joyning of Letters; and in the making of Letters that require an extraordinary
+<pb n="9" facs="tcp:63185:10"/>Poize of Hand; and alſo, the turning of the <hi>Pen</hi> from any Part of a Circle, to a ſtraight Line or Angle, or from a ſtraight Line or Angle, to a Circle; makes the <hi>Hand</hi> more ſlow: And the Reaſon of this laſt will plainly appear, if you do but conſider the great Contrariety that is between a ſtraight Line, and a Circle; or the great Oppoſition that every thing meets with, that is upon a ſwift Circular Moti<g ref="char:EOLhyphen"/>on, in turning to a ſtraight Line or Angle.</p>
+               <p>For the <hi>Third,</hi> which is <hi>Beauty;</hi> I Anſwer, That it's impoſ<g ref="char:EOLhyphen"/>ſible to preſcribe ſatisfactory Rules for this Excellency, the Opinions and Phancies of Men being ſo various, that there are ſcarce Two of one Judgment concerning it; one deem<g ref="char:EOLhyphen"/>ing that <hi>Beauty,</hi> which another condemns for <hi>Deformity.</hi> Notwithſtanding, I will give you my Judgment herein, which will extend to every Part of <hi>Writing,</hi> wherein <hi>Beau<g ref="char:EOLhyphen"/>ty</hi> may be conſidered.</p>
+               <p>Then <hi>Firſt,</hi> I conclude, That every Letter ought to have its Natural Full and Small; (I mean by <hi>Natural,</hi> ſuch Strokes as are made at one Motion.)</p>
+               <p>
+                  <hi>Secondly,</hi> That every Letter in a <hi>Hand,</hi> ſtand alike.</p>
+               <p>
+                  <hi>Thirdly,</hi> That all the Letters without Stemms be of one heighth and depth, and that all the Letters with Stemms be of one heighth and depth, provided the Form of the Letters will admit of it.</p>
+               <p>
+                  <hi>Fourthly,</hi> That every Full bear one proportion of Fulneſs; and that every ſmall Stroke be as fine as is poſſible.</p>
+               <p>
+                  <hi>Fifthly,</hi> That all Letters, or Parts of Letters of one kind or name, do, in all their Dimenſions, remain the ſame.</p>
+               <p>
+                  <hi>Sixthly,</hi> That all the Letters, or parts of Letters within the Ground, and upper-lines of thoſe <hi>Hands</hi> that depend up<g ref="char:EOLhyphen"/>on the Circle, and Perpendicular Line, be of the ſame Breadth with their Heighth; and then all their Whites will be alike: Which will much add to the Luſtre of an <hi>Hand.</hi>
+               </p>
+               <p>
+                  <hi>Seventhly,</hi> That the White of the [o] be obſerved be<g ref="char:EOLhyphen"/>tween Letter and Letter, and the double thereof between
+<pb n="10" facs="tcp:63185:11"/>Word and Word. Theſe <hi>Three Principles</hi> being thus con<g ref="char:EOLhyphen"/>ſidered, they give you a certain Method for the making of every Character.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>Now <hi>(Sir)</hi> I thank you. I underſtand what it is that makes an Hand <hi>Firm, Expeditious,</hi> and <hi>Beautiful.</hi> But, methinks, <hi>Firmneſs</hi> and <hi>Expedition</hi> are inconſiſtent with each other: For you ſay, That the larger the Hand is, it's the more ſlow. Therefore, <hi>Firmneſs</hi> and <hi>Expedition</hi> can<g ref="char:EOLhyphen"/>not accord.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>I ſhall very eaſily Anſwer this <hi>Objection,</hi> if you will but conſider, firſt, the Uſe of the Hand; and if it be for Perpetuity, then the Character muſt (as I have ſaid before) be ſo Firm, that it may continue Legible for ever: So that, in ſuch like Hands, (<hi>viz.</hi> Hands of Ingroſſments) <hi>Firmneſs</hi> is the chiefeſt Excellency. But notwithſtanding, that Hand is Beſt, that is moſt <hi>Expeditious,</hi> and <hi>Beautiful;</hi> and yet anſwers the end of <hi>Firmneſs.</hi> But my Rule for <hi>Expedition,</hi> is; The leſſer Compaſs the <hi>Pen</hi> doth move, in performing any Letter, it's the more <hi>Expeditious:</hi> But from thence you gather a falſe Notion. For though you ſay true, in ſaying, The larger the Hand in Compaſs, the more ſlow: Yet it doth not follow, that <hi>Expedition</hi> doth oppoſe <hi>Firmneſs.</hi> For the <hi>Firmneſs</hi> of an Hand doth not conſiſt in the large Com<g ref="char:EOLhyphen"/>paſs of the Hand; but in <hi>Firmneſs</hi> of Stroke, as is before alledged.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>I confeſs, I was under a Miſtake; for which I crave your Pardon: and I have received a great deal of Satiſ<g ref="char:EOLhyphen"/>faction from your <hi>Three Principles,</hi> together with their Exiſtences; and, I hope, I have a right Underſtanding of them. But <hi>(Sir)</hi> Has the <hi>Scribe</hi> Liberty, by theſe <hi>Prin<g ref="char:EOLhyphen"/>ciples,</hi> to change or invent Characters for Hands, as he pleaſes?</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>No: But he may alter any uſeful Hand, to make it accord with the ſaid <hi>Principles;</hi> provided his Alteration do not render the Hand more illegible. I will now proceed to
+<pb n="11" facs="tcp:63185:11"/>give you the Knowledge of the beſt way of <hi>Writing,</hi> and according to the fore-recited <hi>Principles,</hi> in each particular Hand: And I think it moſt convenient to begin with the <hi>Engliſh-Ingroſſing-Hand,</hi> commonly called <hi>Set-Secretary.</hi> And that I may not do and undo, <hi>I</hi> will <hi>(Firſt)</hi> ſet down the General Branches conſiderable in each Hand: Which ſpring<g ref="char:EOLhyphen"/>ing from the ſaid <hi>Three Principles</hi> of this <hi>Art,</hi> and being followed perfectly, will reduce Hands to their higheſt Ex<g ref="char:EOLhyphen"/>cellencies.</p>
+               <p>The <hi>Rules</hi> founded upon theſe <hi>Three Principles,</hi> have Re<g ref="char:EOLhyphen"/>ſpect either to the Proportion, or Forms of Letters. As for the Proportion of the ſeveral Characters of this Hand, <hi>I</hi> have already proved, That they muſt be ſo Firm, as that they may endure Legible for ever. But how Firm this Hand ought to be, that it may thus endure, it remains yet to be conſidered: And that I may not give you the Proportion too ſmall, which would prejudice the End of its Uſe; nor too full, which would render it the more ſlow; I have conſidered this, That Hand which has endu<g ref="char:EOLhyphen"/>red Firm and Legible for ſeveral Centuries, will endure Le<g ref="char:EOLhyphen"/>gible for ever. Now, how Large and Firm thoſe Hands are that have thus continued, may be ſeen both by Printed Au<g ref="char:EOLhyphen"/>thors, and Antient <hi>Writings.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>
+                  <hi>Sir,</hi> There are ſeveral ſorts of Prints, and thoſe of ſe<g ref="char:EOLhyphen"/>veral Proportions.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>The Smalleſt of any ſort will endure for ever, if it be well Printed; which doth not only appear by the du<g ref="char:EOLhyphen"/>ration of Books extant in the ſmalleſt Prints, publiſhed both for the Inſtruction of the preſent and future Ages: but we may alſo ſee theſe Books thus Printed, an hundred Years or more after their Publication, to remain Firm and Legible as they were the Firſt Day of their Printing.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>There is a great Difference between that which is Printed, and that which is Written.</p>
+            </sp>
+            <pb n="12" facs="tcp:63185:12"/>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>As to the Manner there is; but as far as it concerns that which <hi>I</hi> here argue for, there is no Difference; a Stroke of the <hi>Pen</hi> being altogether as durable, as a Stroke from the <hi>Preſs;</hi> they bearing both one Fulneſs.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>But that which is Printed ſeems more firm than that which is Written.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>The Print is the blacker, becauſe it admits of no Hair-ſtrokes; but this is <hi>Nihil ad rem,</hi> if you conſider, <hi>Firſt,</hi> That the Difference of Letters in this <hi>Hand</hi> depends upon a full Stroke: <hi>Secondly,</hi> That their ſeveral Forms by which they may be known, depends alſo upon a Full.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>
+                  <hi>I</hi> obſerve from hence, That as all Letters are known by ſome Difference; ſo that Difference muſt be made by the Full of the <hi>Pen,</hi> that the Difference may remain.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>It's well obſerved. Now, if the ſmalleſt Print be judged of a ſufficient Firmneſs for perpetual Duration, ſure an <hi>Hand</hi> as full again cannot be thought too ſmall. Now, that <hi>I</hi> may give you the right Proportion of every Letter in this <hi>Hand,</hi> and of every thing that has relation thereunto; <hi>First, I</hi> will ſet down in what particulars Proportion is to be conſidered in this <hi>Hand.</hi>
+               </p>
+               <p n="1">I. It has reſpect unto the Length and Breadth of every part of a Letter, both Great and Small.</p>
+               <p n="2">II. In the joyning of theſe Letters, <hi>viz.</hi> In the diſtances between Letters and Words.</p>
+               <p n="3">III. In the Ruling, <hi>viz.</hi> The diſtance of Lines.</p>
+               <p>For the <hi>Firſt, (viz.)</hi> The Proportion of Letters; You are to obſerve, That ſome Letters are made <hi>with</hi> Stemms, and ſome <hi>without:</hi> Thoſe <hi>without</hi> Stemms, are thoſe Letters that are wholly made within the Ground, and upper-line. And <hi>I</hi> choſe the rather to give you, firſt, the Proportion of theſe Letters within theſe Lines, becauſe thoſe <hi>with</hi> Stemms take their Proportions from thence.</p>
+               <p>
+                  <hi>Firſt</hi> then, Obſerve to make theſe ſaid Letters <hi>One Fourth</hi> of the <hi>Third</hi> of an Inch (or <hi>One Fourth</hi> of a <hi>Grain,</hi> which i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:63185:12"/>all one) in Heighth; and the Breadth (<hi>viz.</hi> The White and two-ſide Lines of each of theſe Letters) muſt be equal to their Heighth: All the Letters of this <hi>Hand</hi> depending upon a Circle, and Perpendicular Line.</p>
+               <p>
+                  <hi>Secondly,</hi> Obſerve, that the Length of each Stemm muſt be longer by one half, than the other Letters within the Lines; excepting [q], whoſe Stemm muſt be equal in Length to the <hi>Minnum</hi> Strokes; and [p], which muſt be but <hi>One Half</hi> of the <hi>Minnum</hi> Strokes: and the Compaſs of each of theſe Stemms muſt be equal in Compaſs with the other Letters within the Line; except [h] and [k], which muſt be as wide again.</p>
+               <p>
+                  <hi>Thirdly,</hi> Obſerve, that the Fulneſs of each Stroke be equal to <hi>One Fourth</hi> of the Wideneſs.</p>
+               <p>
+                  <hi>Fourthly,</hi> Obſerve, the White of the ſmall Letters for your Diſtance, between Letter and Letter, and the double thereof between Word and Word; except Two Circular Letters come together in a Word; and then thoſe Letters muſt be joyn'd cloſer by <hi>One Half.</hi>
+               </p>
+               <p>
+                  <hi>Fifthly,</hi> Obſerve, that your Lines be ruled diſtant from each other, the ſpace of <hi>One Third</hi> of an Inch; which will prevent your Stemms from falling into each other.</p>
+               <p>
+                  <hi>Sixthly,</hi> Obſerve, that you ſet all your Letters upright; this being the beſt way for all <hi>Engliſh Hands.</hi> And by rea<g ref="char:EOLhyphen"/>ſon this Laſt thwarts the Opinion of Mr. <hi>Cocker,</hi> I will in<g ref="char:EOLhyphen"/>form you what were the Reaſons, that induced me thus to contradict him.</p>
+               <p>I have obſerved, That the <hi>Hand</hi> naturally and freely will tend only that way, that it's moſt accuſtomed to; and that is the cauſe, that when any accuſtom themſelves to write <hi>Court,</hi> which ignorantly, of late, has been lean'd towards the Left-hand, they lean all the other <hi>Hands</hi> alike; which is no ſmall Prejudice to them: And therefore, upon good Reaſon, it is my Opinion, That all our <hi>Engliſh Hands</hi> are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt, when ſet upright; which will not, in the leaſt, be
+<pb n="14" facs="tcp:63185:13"/>to their Prejudice, but very much to their Advantage.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>Pray, <hi>(Sir)</hi> How do you judge the <hi>Sett-Hand</hi> was wrote before Mr. <hi>Cocker</hi>'s Time?</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>Before Mr. <hi>Cocker,</hi> our <hi>Engliſh Hands</hi> were all ſet upright, as it appears by the <hi>Manuſcripts</hi> of Mr. <hi>Davy</hi>'s, writ<g ref="char:EOLhyphen"/>ten <hi>Anno Dom.</hi> 1590.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>It's ſtrange, Men ſhould be thus forward to vary, unleſs their Alterations were for the bettering the Hand al<g ref="char:EOLhyphen"/>tered.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>I judge, that the Alterations of Hands was intended for the bettering of them; though, in many things, their Deſign miſcarried: And it was impoſſible, it ſhould be o<g ref="char:EOLhyphen"/>therwiſe; for they never preſcribed to themſelves any cer<g ref="char:EOLhyphen"/>tain <hi>Principles of Writing,</hi> (which would have reduced their <hi>Writings</hi> to a Certainty, as Standards to examine their <hi>Wri<g ref="char:EOLhyphen"/>ting</hi> by) but invented and altered every Hand, according to their own roving Phancies. And what was neweſt a<g ref="char:EOLhyphen"/>mong them, was deemed Beſt; as appears by the Words of Mr. <hi>Cocker,</hi> in his <hi>ARTS GLORY.</hi>
+               </p>
+               <p>And I wonder what <hi>Hand-Writing</hi> would have been re<g ref="char:EOLhyphen"/>duced to, if others, who were as capable of making Al<g ref="char:EOLhyphen"/>terations as Mr. <hi>Cocker,</hi> had burdened this Kingdom with as many Copy-Books as he has done? It is to be feared, we ſhould then have been confounded in our <hi>Artificial</hi> Tongues, as the <hi>Babel</hi> Builders were in their <hi>Natural.</hi> Mr. <hi>Cocker</hi>'s Alterations of Hands, I cannot compare to any thing more pat, than School-Boy's turning of Verſes, who only reſpect Variety.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>I hope, it is now Time for me to begin to proceed to an Imitation of this Hand, ſeeing you have been pleaſed to give me a full Underſtanding thereof.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>You are too ſhort in that, yet; for an Hand is a cer<g ref="char:EOLhyphen"/>tain Number of Letters, ſufficient for the proper expreſſing of any Words or Sentences: Now, no Sentence can proper<g ref="char:EOLhyphen"/>ly be wrote without one or more Great Letters; therefore,
+<pb n="15" facs="tcp:63185:13"/>the Capital Letters are abſolutely neceſſary to make a com<g ref="char:EOLhyphen"/>pleat and proper Hand. So that a Piece of <hi>Writing</hi> cannot be ſaid properly to be a <hi>Hand;</hi> unleſs it contain the <hi>Twen<g ref="char:EOLhyphen"/>ty Four Chracters,</hi> Great and Small. But, notwithſtanding, we may ſay, That a Piece of <hi>Writing</hi> is wrote in ſuch and ſuch an <hi>Hand;</hi> although the Piece of <hi>Writing</hi> be not a com<g ref="char:EOLhyphen"/>pleat <hi>Hand;</hi> the Part being put for the Whole.</p>
+               <p>Therefore, in the next place, I will inform you of the Capitals uſed in this <hi>Hand:</hi> Which being called <hi>Capital,</hi> it appears from thence, that theſe Letters muſt exceed the o<g ref="char:EOLhyphen"/>ther in Magnitude; but this Magnitude muſt not exceed the diſtance of Lines in Heighth; nor in Depth, the longeſt Stemms, except it be in the Beginning of a Piece of <hi>Writing.</hi> Great Letters are only uſeful for the Beginning of every Sen<g ref="char:EOLhyphen"/>tence, Proper Names, and Remarkable Appellatives; and therefore, I need not give you any other Rules for their Proportions, than what I have already laid down in my <hi>Three General Principles;</hi> that Form of Capitals being beſt, that is moſt <hi>Firm, Expeditious</hi> and <hi>Beautiful:</hi> Which I ſhall give you a Copy of, when I ſee it convenient for you.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>Your Diſcourſe of the Proportions of Letters, puts me in remembrance of a Line I once read in a Book of Mr. <hi>Cocker</hi>'s; <hi>Proportion is the Quinteſcenſe of Art:</hi> And I am as careful to remember theſe Words of Yours; <hi>The Art of Writing is contained in the Documents of meet Propor<g ref="char:EOLhyphen"/>tions.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>Truly, Mr. <hi>Cocker</hi> ſaid well; and he might have done well too, if that he had ſet down the right Propor<g ref="char:EOLhyphen"/>tions of each Hand: But he was ſo far from doing this, that he never did, in any of his Publick Pieces, give the Proportion of one Letter, unleſs in his Examples; and thoſe were ſo various, that he never Engraved <hi>Two</hi> Pieces of <hi>One</hi> Hand alike: And therefore, How was it ever poſſible to gather any true Proportion from him? So that, he which
+<pb n="16" facs="tcp:63185:14"/>Writes in imitation of Mr. <hi>Cocker,</hi> is like a Carpenter work<g ref="char:EOLhyphen"/>ing without his <hi>Rule.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>Now <hi>(Sir)</hi> you having given me the <hi>Quinteſcence</hi> of the <hi>Hand,</hi> (as Mr. <hi>Cocker</hi> calls it) pray, What remains now?</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>Theſe due Proportions be rightly ranged into Order, that is, into <hi>Twenty Four</hi> known diſtinct Characters, both Capital and Small, they make up a Compleat Hand, fit for its intended Uſe. And, as the diſtinction of Things muſt be known by ſome Difference; ſo it is alſo abſolute<g ref="char:EOLhyphen"/>ly neceſſary, that the <hi>Twenty Four</hi> Characters have all their ſeveral Forms, that thereby they may be diſtinctly known.</p>
+               <p>Therefore, this leads me, in the next Place, to treat of their Forms; which cannot be ſo well expreſs'd by the Tongue, as diſcern'd by the Eye, whoſe proper Objects they are: Therefore, I here preſent you with a Copy for your Imitation. You muſt be ſure to give your Letters their true Fulls and Smalls, according to your Copy: And for your more facile Performance thereof, obſerve, That when your <hi>Hand</hi> and <hi>Pen</hi> is held according to your Di<g ref="char:EOLhyphen"/>rections, all the Fulls and Smalls will naturally be perform<g ref="char:EOLhyphen"/>ed without any Artificial dawbing; the <hi>Pen</hi>'s Edge tending naturally to an aſcending, or croſs-Line; and alſo the flat to a down-right deſcending Stroke.</p>
+               <p>
+                  <hi>Note,</hi> That the <hi>Pen</hi> naturally falls but once to a right Flat in any Circle or Oval: So that, when you ſee in an Oval or Circle, a Full anſwering a Full, you may conclude, That one of thoſe Fulls is Artificial; and that is ever Ar<g ref="char:EOLhyphen"/>tificial, that is perform'd laſt. All double Strokes, as in the Top of a ſmall [o], are naturally Full.</p>
+               <p>Now, I have given you the Knowledge of <hi>Writing</hi> in General; and alſo, in this one particular <hi>Hand;</hi> I ſhall breathe awhile: Only this I ſay, Be careful that your Head and Heart attend your Hand.</p>
+            </sp>
+            <pb n="17" facs="tcp:63185:14"/>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>
+                  <hi>Sir,</hi> Pray, how do you approve of This?</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>I fear, you have Written too faſt, to do well.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>I hop'd, that you would have commended me for do<g ref="char:EOLhyphen"/>ing ſo much; for in your <hi>Directions,</hi> you commend <hi>Expe<g ref="char:EOLhyphen"/>ditious Writing.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>In my <hi>Directions</hi> I commend an <hi>Expeditious</hi> man<g ref="char:EOLhyphen"/>ner of <hi>Hand;</hi> which muſt firſt be obtain'd by Writing ve<g ref="char:EOLhyphen"/>ry ſlow: and when you have attain'd to the Writing of it well, then it will be made Swift by Practice. But ob<g ref="char:EOLhyphen"/>ſerve theſe <hi>Directions,</hi> and you need not fear Writing too faſt: That is;</p>
+               <p>
+                  <hi>Firſt,</hi> When you begin your Copy, endeavour to get the perfect Knowledge of each Character, before you begin to imitate them: And when you have thus Written your Firſt Line, then before you begin your Second, obſerve the Faults of each Letter, by comparing them with your Copy; and then do your utmoſt Endeavour to mend what you obſerve to be amiſs: And proſecute this Courſe through<g ref="char:EOLhyphen"/>out every Copy, and you need not fear, but that you will learn to <hi>Write</hi> both Well and Faſt.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>
+                  <hi>Sir,</hi> This is an hard Leſſon.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>I wonder why? Is there any thing enjoyn'd you, which a Child of <hi>Six</hi> Years old cannot do?</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>I have heard ſome ſay, That a Child is not capable of learning to <hi>Write,</hi> until he arrive to <hi>Twelve</hi> Years of Age.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>That's a great Miſtake; for I have taught ſome of <hi>Nine, Eight, Seven,</hi> yea, <hi>Six</hi> Years of Age frequently; and to <hi>Write</hi> Well, in a ſmall time.</p>
+               <p>Now, go your ways, and do as I have told you.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>
+                  <hi>Sir,</hi> Pray, how like you This? I doubt not, but that I have Wrote ſlow enough now; for I have not Writ<g ref="char:EOLhyphen"/>ten above Four Lines in an Hour.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>Now, you have quit your ſelf well: And, I doubt not, but that by my preſcribed Method of examining each
+<pb n="18" facs="tcp:63185:15"/>Line by your Copy, you have much improved your Judg<g ref="char:EOLhyphen"/>ment. In the next place therefore, for the Exerciſe there<g ref="char:EOLhyphen"/>of, Write me theſe Lines out of this Book without a Co<g ref="char:EOLhyphen"/>py; and thereby I ſhall alſo diſcover how far you underſtand my <hi>Directions.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>I was very much pleaſed with your Commendation of my laſt, and I ſhould be no leſs now; which <hi>I</hi> am ſure it muſt, if your Praiſe be equal to my Endeavour.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>I like your <hi>Writing</hi> well: But, <hi>I</hi> perceive, you are very ignorant in the Rules of <hi>Orthography.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>My Maſter was very negligent of me, as to this Par<g ref="char:EOLhyphen"/>ticular; for he never Exerciſed me in this Subject: But if you will be pleaſed alſo to inſtruct me in This, <hi>I</hi> ſhall think my ſelf very much obliged.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>
+                  <hi>I</hi> will do my endeavour, in aſſiſting you herein: But, doubtleſs, you might have been better inſtructed in your <hi>Grammar-School</hi> in <hi>Orthography;</hi> which is one of the Eſſential Parts of <hi>Grammar,</hi> and fitteſt to be taught there. <hi>Orthography,</hi> the Firſt Part of <hi>Grammar,</hi> teaching the <hi>Art of Writing,</hi> is to be conſidered,</p>
+               <p n="1">I. In the invention, and deviſing of Letters.</p>
+               <p n="2">II. In the right ordering, or placing of theſe Letters in<g ref="char:EOLhyphen"/>vented.</p>
+               <p>The <hi>Firſt</hi> Part of <hi>Orthography, viz.</hi> The Forms of Let<g ref="char:EOLhyphen"/>ters, are to be conſidered in every Hand; which I have al<g ref="char:EOLhyphen"/>ready treated on at large, and ſhall farther handle as I ſhall ſee occaſion for it, in each particular Hand.</p>
+               <p>The <hi>Second</hi> has theſe Two Parts, <hi>viz. Spelling</hi> and <hi>Point<g ref="char:EOLhyphen"/>ing.</hi>
+               </p>
+               <p>For the <hi>Firſt,</hi> Obſerve the difference in the Sound of each Letter, that thereby you may know what Letters are to be wrote, to make up a diſtinct Sound in any one Syl<g ref="char:EOLhyphen"/>lable: For in every Syllable that is pronounced as its wrote, every Letter is ſounded in that Syllable in which it ought to be wrote. And when you can ſpell a Word of one Syl<g ref="char:EOLhyphen"/>lable,
+<pb n="19" facs="tcp:63185:15"/>it will be no difficult Matter to ſpell Words of ma<g ref="char:EOLhyphen"/>ny, if you know how to divide them: Which that you may do, obſerve, That every Syllable in a Word has a dif<g ref="char:EOLhyphen"/>ferent Sound; as this word <hi>[fol-low-ing],</hi> which cannot be ſpoken without giving it Three ſeveral Sounds, and every Sound makes a Syllable: The Firſt is <hi>[fol],</hi> which Sound or Syllable cannot be wrote with any other Letters, than <hi>[fol]:</hi> and ſo of the Second and Third.</p>
+               <p>In the next Place, obſerve, That no Syllable can be ſound<g ref="char:EOLhyphen"/>ed, or wrote without a Vowel, <hi>[a, e, i, o, u,</hi> or <hi>y]: [u]</hi> is ſometimes a Vowel, and ſometimes a Conſonant. It's ever a Conſonant, when it comes before a Vowel in the ſame Syllable. Sometimes Two Vowels are ſounded in one Syl<g ref="char:EOLhyphen"/>lable; and then they are called <hi>Dipthongs;</hi> which are Five in number <hi>[ae, oe, au, ei, eu]:</hi> The two former are both pro<g ref="char:EOLhyphen"/>nounced like [e].</p>
+               <p>Obſerve to pronounce every Word rightly; for there is nothing a greater Enemy to <hi>Spelling,</hi> than falſe <hi>Pronouncia<g ref="char:EOLhyphen"/>tion,</hi> being ſettled by Diſcourſe. There are many Syllables of one Sound, that muſt be diverſly wrote; which are to be known by the <hi>Radix</hi> of the <hi>Words,</hi> or <hi>Supines</hi> of their <hi>Verbs.</hi> There are alſo ſome Words, that are not pronoun<g ref="char:EOLhyphen"/>ced as they are wrote; and ſome that are pronounced alike, but wrote diverſly: And therefore, it's beſt for you to make an Obſervation of theſe Words, when you meet with them.</p>
+               <p>Write the Firſt Letter in a Sentence, all Proper Names, as the Names of Heatheniſh Gods and Goddeſſes, Men, Women, Rivers, Months, Winds, Cities, Countries, and Iſlands, remarkable Appellatives, and I <hi>per ſe,</hi> with great Letters.</p>
+               <p>Words pronounced long, muſt have an [e] in the end: But [e] muſt not follow [g] in the end of a Word, un<g ref="char:EOLhyphen"/>leſs [g] be ſounded like [j] Conſonant: [ſ] is never written after [x]. So much of <hi>Spelling.</hi>
+               </p>
+               <pb n="20" facs="tcp:63185:16"/>
+               <p>
+                  <hi>Secondly,</hi> In <hi>Pointing</hi> you are to obſerve, That there are <hi>Fifteen</hi> diſtinct and proper <hi>Points.</hi>
+               </p>
+               <p>The <hi>Firſt,</hi> A <hi>Comma</hi> [,] uſed at the End of every Sen<g ref="char:EOLhyphen"/>tence.</p>
+               <p>The <hi>Second,</hi> A <hi>Semi-Colon</hi> [;] uſed properly betwixt the <hi>Comma</hi> and <hi>Colon,</hi> as the Senſe admits; it being a Mean between them.</p>
+               <p>The <hi>Third,</hi> A <hi>Colon</hi> [:] uſed properly betwixt the <hi>Comma</hi> and <hi>Colon,</hi> as the Senſe admits; it being a Mea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> between them.</p>
+               <p>The <hi>Fourth,</hi> A <hi>Period</hi> [.] uſed at the end of a Perfect Sentence.</p>
+               <p>The <hi>Fifth,</hi> A <hi>Parentheſis</hi> [()] uſed when one Sentence is put within another; which yet may be left out, and the Senſe not deſtroyed.</p>
+               <p>The <hi>Sixth,</hi> A Note of <hi>Interrogation</hi> [?] uſed when a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Queſtion is asked.</p>
+               <p>The <hi>Seventh,</hi> A Note of <hi>Exclamation</hi> [!] uſed when we expreſs any thing with Wonder.</p>
+               <p>The <hi>Eighth, A Subunio</hi> [=] uſed, 1. When Two whole Words are united. 2. When one part of the Word is wrote at the End of the Line, and the other at the Beginning of the next.</p>
+               <p>The <hi>Ninth, A Dialyſis</hi> [..] uſed when a <hi>Dipthong</hi> is part<g ref="char:EOLhyphen"/>ed into Two Syllables.</p>
+               <p>The <hi>Tenth,</hi> An <hi>Induction</hi> [^] uſed to bring in a Word interlined.</p>
+               <p>The <hi>Eleventh,</hi> An <hi>Apoſtrophe</hi> ['] us'd when a Letter is caſt out.</p>
+               <p>The <hi>Twelfth,</hi> A Note of <hi>Quotation</hi> ["] uſed in the Mar<g ref="char:EOLhyphen"/>gent, when we quote a Sentence out of an Author.</p>
+               <p>The <hi>Thirteenth,</hi> An <hi>Acute-tone</hi> ['] uſed to diſtinguiſh doubtful Quantities.</p>
+               <p>The <hi>Fourteenth,</hi> A <hi>Grave-tone</hi> ['] uſed to diſtinguiſh <hi>Ad<g ref="char:EOLhyphen"/>verbs</hi> from other Words.</p>
+               <pb n="21" facs="tcp:63185:16"/>
+               <p>The <hi>Fifteenth,</hi> A <hi>Circumflex-tone</hi> [<g ref="char:cmbAbbrStroke">̄</g>] uſed over, 1. <hi>Abla<g ref="char:EOLhyphen"/>ives Caſes</hi> of the Firſt; 2. <hi>Genitive Caſes</hi> of the Fourth Declenſion. 3. Words ſyncopated, and contracted.</p>
+               <p>Now, prepare your ſelf for the Writing of the moſt <hi>Firm, Expeditious,</hi> and <hi>Beautiful Hand</hi> of all yet invented for Cur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry Buſineſs.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>I ſuppoſe, this is the <hi>Hand</hi> mentioned amongſt your <hi>Five Beſt,</hi> being beſt for Book-Entries and Epiſtles.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>This is the ſame; and it deſerves to wear the Lau<g ref="char:EOLhyphen"/>el, before all <hi>Hands</hi> of the ſame Uſe, whether they be <hi>French,</hi> or <hi>Italian:</hi> And for the Reaſons following, this I am the more conſident to aſſert. Our <hi>Engliſh Hands</hi> having re<g ref="char:EOLhyphen"/>ceiv'd a publick Aſſault by <hi>A-la-mode-Secretary</hi> to the <hi>French Formulae,</hi> I thought it might be no diſhonourable Adven<g ref="char:EOLhyphen"/>ture, to maintain the Honour of our <hi>Engliſh Hands:</hi> And <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hereupon, knowing our <hi>Secretary Hands</hi> to be Counter-Buff, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> undertook there-with to engage <hi>A-la-mode;</hi> drawing my <hi>Secretary-Band</hi> upon Three Hills, <hi>Firm, Expeditious,</hi> and <hi>Beautiful:</hi> And having thus ordered them, I ſent to <hi>A-la<g ref="char:EOLhyphen"/>node,</hi> to prepare for Battle. Whereupon, in ſome ſpace of Time, I receiv'd his utmoſt Force: Which being Anſwer<g ref="char:EOLhyphen"/>ed with a greater Strength than he was able to reſiſt, in the next place, he ſounds an unwilling Retreat.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>I underſtand, you contended only for the Honour of our <hi>Engliſh Secretary-Hand.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>I took the Advantage, with <hi>Sertorius,</hi> who by the Hairs of his Horſe-Tail, hath proved to be very impor<g ref="char:EOLhyphen"/>tant; that beginning with a Part, it is no matter of dif<g ref="char:EOLhyphen"/>ficulty to overcome the Whole. And I doubt not, but if all our <hi>Engliſh Hands</hi> were Written according to the <hi>Rules</hi> herein delivered, they would excel all Foreign <hi>Hands</hi> what<g ref="char:EOLhyphen"/>ever.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>I wonder how Foreign <hi>Hands</hi> have got ſuch Eſteem a<g ref="char:EOLhyphen"/>mongſt us of <hi>England?</hi>
+               </p>
+            </sp>
+            <pb n="22" facs="tcp:63185:17"/>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>They have been eſteem'd amongſt them that have valued <hi>Writing</hi> only for Variety: But they never took a<g ref="char:EOLhyphen"/>mongſt the Judicious; as appears by our Records, which are Written in no <hi>Hands</hi> but our <hi>Engliſh.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>Are the Records wrote in no <hi>Hands,</hi> but ſome of thoſe <hi>Five</hi> aforementioned? Then ſurely, it muſt needs be very prejudicial both to <hi>Law</hi> and <hi>Juſtice,</hi> to alter them.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>Records would become illegible, if their Characters were not maintain'd by Practice: And if ſo, you cannot but conclude thoſe to be Wiſe <hi>Writing-Maſters,</hi> who will tell you, That the <hi>Secretary-Hand</hi> will be unknown in a few Years.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>Wiſe <hi>Maſters!</hi> If they underſtand no better the <hi>Wri<g ref="char:EOLhyphen"/>ting</hi> of <hi>Hands,</hi> than they do of their Uſe.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>I ſhall now, in the next place, proceed to give you the Proportions of this <hi>Hand;</hi> which being intended only for a Curſory <hi>Hand,</hi> or for Buſineſs of the leaſt Duration, it cannot, without difficulty, be wrote too ſmall; the ſe<g ref="char:EOLhyphen"/>veral Forms of Letters, in this <hi>Hand,</hi> receiving their ſeve<g ref="char:EOLhyphen"/>ral Differences by the Flat of the Pen. And there is alſo a great Conveniency in this <hi>Hand,</hi> it bearing the ſame Form of Letters with the <hi>Ingroſſing-Hand:</hi> So that, he who can write the One, may quickly write the Other. And beſides this, the <hi>Running-Hand</hi> begets a great freeneſs and readi<g ref="char:EOLhyphen"/>neſs in thoſe Letters, in which it is compoſed: Therefore the <hi>Ingroſſing-Hand</hi> muſt needs be better'd by the Conformi<g ref="char:EOLhyphen"/>ty it holds with this <hi>Hand.</hi>
+               </p>
+               <p>In giving you the Proportions of this <hi>Hand,</hi> I ſhall pro<g ref="char:EOLhyphen"/>ſecute my former Method:</p>
+               <p>
+                  <hi>Firſt,</hi> Obſerve, That the Heighth and Breadth of the Letters of this <hi>Hand,</hi> are beſt when they are made <hi>One Eighth</hi> of a <hi>Grain.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> That the Length of each Stemm be longer by <hi>One Half,</hi> than the Letters within the Lines.</p>
+               <pb n="23" facs="tcp:63185:17"/>
+               <p>
+                  <hi>Thirdly,</hi> That the Wideneſs of each Stemm be equal in Wideneſs to the Letters within the Lines; except [h] and [k], whoſe Stemms are beſt when they are double to the Wideneſs of the other Stemms: And that the Stemms be<g ref="char:EOLhyphen"/>low the Line, be double in Length to the <hi>Minnums.</hi>
+               </p>
+               <p>
+                  <hi>Fourthly,</hi> That each Stroke be equal in Fulneſs, to <hi>One Fourth</hi> of the Wideneſs of each Letter.</p>
+               <p>
+                  <hi>Fifthly,</hi> Obſerve the White of the ſmall Letters, for your diſtance between Letter and Letter; and the double there<g ref="char:EOLhyphen"/>of, between Word and Word; except as is before excepted.</p>
+               <p>
+                  <hi>Sixthly,</hi> Obſerve, to rule your Lines diſtant from each other, <hi>One Sixth</hi> of an Inch: And this is ſufficient, I having already proved what Capitals are beſt, in my <hi>Diſcourſe</hi> of the Laſt.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>You have been ſhort in your <hi>Directions,</hi> methinks, for your laſt <hi>Hand.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>They are the better in being brief, if they be com<g ref="char:EOLhyphen"/>pleat and full. And that you may be ſatisfied, that there is not any thing wanting to prove each Letter in this <hi>Hand;</hi> obſerve, That <hi>Form</hi> and <hi>Proportion</hi> are all that may be con<g ref="char:EOLhyphen"/>ſidered in an <hi>Hand.</hi> For the <hi>Forms</hi> of Letters, you may call to mind the <hi>Rules</hi> delivered in General for all <hi>Hands:</hi> And there you may plainly prove, what <hi>Forms</hi> of Letters is beſt. And for the <hi>Proportion</hi> of any Letter, you have here a moſt plain <hi>Theorem.</hi>
+               </p>
+               <p>Now, I ſhall proceed to give you the Proportions of our <hi>Engliſh Text.</hi> But, firſt, conſider the Uſe of the <hi>Hand,</hi> which I have already proved in the Precedent <hi>Diſcourſe;</hi> and then you will be more capable of judging of the following <hi>Pro<g ref="char:EOLhyphen"/>portions.</hi>
+               </p>
+               <p>
+                  <hi>Firſt</hi> then, obſerve, That the Heighth and Breadth of the Letters, within the Lines, be <hi>One Half</hi> of a <hi>Grain.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> That the Length of each Stemm be equal to the Letters within the Lines.</p>
+               <pb n="24" facs="tcp:63185:18"/>
+               <p>
+                  <hi>Thirdly,</hi> That the Compaſs, or Breadth of each Stemm, be equal to its Length.</p>
+               <p>
+                  <hi>Fourthly,</hi> That the Fulneſs of each Stroke be equal to <hi>One Fourth</hi> of the Breadth of each Letter.</p>
+               <p>
+                  <hi>Fifthly,</hi> Obſerve the White of the ſmall Letters within the Line, for your diſtance between each Letter; except Two Circular Strokes come together, which muſt be joyn'd cloſe; and the double thereof, between Word and Word.</p>
+               <p>Now I ſhall proceed to the <hi>Court-Hand;</hi> which will ad<g ref="char:EOLhyphen"/>mit of Two ſeveral, yet moſt uſeful Proportions.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>How, <hi>Sir?</hi> Two ſeveral <hi>Proportions</hi> of <hi>One Hand,</hi> and both in the Superlative Degree? According to your for<g ref="char:EOLhyphen"/>mer <hi>Rules,</hi> this cannot be.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>
+                  <hi>Scholar,</hi> You are miſtaken: Therefore, call to mind what I have ſaid. I imagine, you ground this your confi<g ref="char:EOLhyphen"/>dent Aſſertion, upon theſe Words; <hi>Two Superlatives cannot accord with ſeveral Operations in one and the ſame Effect.</hi> But better conſider of the Words, and then tell me, Whether or no Two ſeveral Proportions of <hi>One Hand,</hi> for Two ſeveral Uſes, may not all be beſt in their ſingle Uſe?</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>Pray (<hi>Sir</hi>) pardon my Confidence, and inform me with the ſeveral Uſes of this <hi>Hand.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>
+                  <hi>Court-Hand</hi> is uſed in the Exemplifying of <hi>Fines:</hi> And alſo, as <hi>Text</hi> is uſed in our <hi>Engliſh-Ingroſſing-Hand;</hi> ſo is the <hi>Exemplifying-Court</hi> uſed in the <hi>Small.</hi> The <hi>Small Court</hi> is either uſed for the Ingroſſing of <hi>Records,</hi> or as a Curſory <hi>Hand,</hi> for the Entring of <hi>Precedents,</hi> for <hi>Writs, De<g ref="char:EOLhyphen"/>clarations, Pleas,</hi> &amp;c. or any Curſory Buſineſs of the <hi>Courts</hi> wherein it is uſed.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>If the <hi>Small Court</hi> be firm and large enough for <hi>In<g ref="char:EOLhyphen"/>groſſments,</hi> what need is there of the <hi>Exemplifying Hand?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>
+                  <hi>Firſt,</hi> (as I have ſaid before) It's convenient in ſupplying the Uſe of the <hi>Text-Hand: Secondly,</hi> Deeds that are wholly Exemplified, are generally very ſhort, and of great and weighty Concerns; and the <hi>Clerk</hi>'s <hi>Fees</hi> alſo great:
+<pb n="25" facs="tcp:63185:18"/>Therefore, that they may appear the larger, and more grace<g ref="char:EOLhyphen"/>ful, they are Exemplified. If a <hi>Fine</hi> were wrote in a ſmall <hi>Court-Hand,</hi> it would look more like a <hi>Writ,</hi> than a <hi>Deed.</hi>
+               </p>
+               <p>Now, prepare your ſelf for the beſt <hi>Proportions</hi> of the <hi>Ex<g ref="char:EOLhyphen"/>emplifying Court-Hand.</hi>
+               </p>
+               <p>
+                  <hi>Firſt,</hi> Obſerve, That the Letters within the Lines are beſt, when Written <hi>One Fourth</hi> of an Inch in Length.</p>
+               <p>
+                  <hi>Secondly,</hi> That the Whites of each of theſe Letters, be equal in Breadth to the <hi>Minnum</hi> Strokes, or <hi>One Sixth</hi> of a <hi>Fourth</hi> of an Inch; except [c] and [t], and thoſe Parts of Letters, that bear the Form of [c] and [t]; which are beſt when they are <hi>Two Thirds</hi> of the <hi>Fourth</hi> of an Inch in Wideneſs; and the [e] <hi>Seven Eighths</hi> of the <hi>Fourth</hi> of an Inch.</p>
+               <p>
+                  <hi>Thirdly,</hi> That the Length of the talleſt Stemms, <hi>viz.</hi> of [b, h, k, l, and w] be <hi>One Fourth</hi> of an Inch; and the Stemms of [d, f, and the long ſ,] <hi>Three Fourths</hi> of the <hi>Fourth</hi> of an Inch: And the Stemms of [a, c, s, and t] <hi>One Half</hi> of the <hi>Fourth</hi> of an Inch. Notes of <hi>Abbreviation,</hi> and [i] in the end of a Word, equal in Heighth to the talleſt Stemms, or <hi>One Fourth</hi> of an Inch.</p>
+               <p>
+                  <hi>Fourthly,</hi> That all the Stemms below the Line, be equal in Length to the talleſt Stemms above Line, or <hi>One Fourth</hi> of an Inch; except the Stemm of [h], which is beſt <hi>Three Fourths</hi> of the <hi>Fourth</hi> of an Inch.</p>
+               <p>
+                  <hi>Fifthly,</hi> That the Wideneſs of all the Stemms, both above and below the Lines, be <hi>Three Fourths</hi> of the <hi>Fourth</hi> of an Inch; except the Stemms of [d, f, g, and ſ,] which are beſt <hi>One Half</hi> of the <hi>Fourth</hi> of an Inch.</p>
+               <p>
+                  <hi>Sixthly,</hi> Obſerve the White of the <hi>Minnums,</hi> for your di<g ref="char:EOLhyphen"/>ſtance between Letter and Letter; except they follow [a, b, c, h, k, w, x, y], or come before, or follow [e, y, o, s]; and then they muſt be joyned cloſe: And the Space, or
+<pb n="26" facs="tcp:63185:19"/>Wideneſs of the [n], for your diſtance between Word and Word.</p>
+               <p>
+                  <hi>Seventhly,</hi> Obſerve for your diſtance of Lines, <hi>Three Fourths</hi> of an Inch.</p>
+               <p>And now I have given you the <hi>Proportions</hi> of the <hi>Exem<g ref="char:EOLhyphen"/>plifying-Hand:</hi> I will, in the next place, give you the <hi>Pro<g ref="char:EOLhyphen"/>portions</hi> of the <hi>Small Court;</hi> fitteſt, and beſt for <hi>Records;</hi> which, in its ſeveral <hi>Proportions,</hi> is the ſame with the <hi>Ex<g ref="char:EOLhyphen"/>emplifying-Hand:</hi> Only, this muſt be wrote by a Leſſer Scale.</p>
+               <p>And, if wrote true, they will anſwer each other, as Face anſwers Face in Two Glaſſes of different Magnitudes: Therefore, I ſhall only give you the Heighth of the Letters within the Lines; which are beſt <hi>One Sixth</hi> of the <hi>Third</hi> of an Inch; and leave you to proportion each Letter, up<g ref="char:EOLhyphen"/>on this Baſis: Only obſerve, That whereas in the <hi>Exem<g ref="char:EOLhyphen"/>plifying Court-Hand,</hi> the Breadth of the <hi>Minnum</hi> Strokes are but <hi>One Sixth</hi> part of their Heighth; but in This they muſt be <hi>One Fourth.</hi> And thus much for <hi>Court-Hand.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>You ſpake of a Curſory <hi>Court-Hand</hi> a little before.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>Well remembred. To make a Quick, Expeditious, or Curſory <hi>Hand,</hi> Two things are abſolutely neceſſary:</p>
+               <p n="1">1. A right Form of Letters, <hi>viz.</hi> A Form agreeing to the Rules of <hi>Expedition,</hi> ſo far as the Characters both in Shape and Uſe will admit.</p>
+               <p n="2">2. A frequent Uſe, or Cuſtom in the Writing of the ſame.</p>
+               <p>
+                  <hi>Court-Hand</hi> may be made far more Expeditious, than it's commonly wrote, (and yet vary but a very ſmall matter from the Original; and not, in the leaſt, the more illegible or infirm) by avoiding ſome Cutts prejudicial to the ma<g ref="char:EOLhyphen"/>king of Letters: And alſo, theſe Cutts being many, and the moſt difficult Parts of Letters, they muſt retard the Motion of the <hi>Hand.</hi> This will plainly appear, when you have Written a few Lines by this Copy of the Twenty Four
+<pb n="27" facs="tcp:63185:19"/>Letters; wherein the <hi>Pen</hi> muſt not be taken off, in the per<g ref="char:EOLhyphen"/>forming any Letter, except in the making of an <hi>[x].</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>I judge this laſt Form of Letters better for Uſe, than the Other.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>It's better for common Buſineſs than the Other, be<g ref="char:EOLhyphen"/>cauſe it's far more Expeditious; but for Buſineſs of extra<g ref="char:EOLhyphen"/>ordinary Concern, the <hi>Sett-Court</hi> is beſt, it being the moſt <hi>Beautiful:</hi> Beſides, it's very convenient, that the <hi>Sett-Court</hi> be very well underſtood, before an Imitation of the more Cur<g ref="char:EOLhyphen"/>ſory <hi>Hand;</hi> for the more like the Curſory <hi>Hand</hi> is to the <hi>Sett,</hi> the better: For though the Letters may be altered to a Curſory Form; yet, notwithſtanding, the Form of each Letter muſt be, in a great meaſure, like the Original; other<g ref="char:EOLhyphen"/>wiſe it cannot be <hi>Court.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>Pray (<hi>Sir</hi>) then, What will you call <hi>That,</hi> that is one part <hi>Court,</hi> and the other <hi>Secretary?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>What will you call that Perſon, that's both <hi>Man</hi> and <hi>Woman?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>Thoſe are called <hi>Hermaphrodites;</hi> and paſs for <hi>Men</hi> or <hi>Women,</hi> as the Sex prevaileth.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>So you may call theſe <hi>Miſcellanies, Court</hi> or <hi>Secretary,</hi> as the Form prevaileth.</p>
+               <p>Now, I ſhall proceed to the <hi>Chancery-Hand,</hi> the laſt of the <hi>Five</hi> before-mentioned Beſt, for the Writing of any Clerk-like Buſineſs whatſoever; whoſe <hi>Proportions</hi> are as fol<g ref="char:EOLhyphen"/>loweth:</p>
+               <p>
+                  <hi>Firſt,</hi> The Letters within Line muſt be <hi>One Fifth</hi> of the <hi>Third</hi> of an Inch in Heighth.</p>
+               <p>
+                  <hi>Secondly,</hi> The Wideneſs of theſe Letters muſt be equal to their Heighth.</p>
+               <p>
+                  <hi>Thirdly,</hi> The Stemms of the Letters muſt be equal in Length, to the Letters within the Line; except the Stemms of [a, s, and t], which muſt be lower by <hi>One Half</hi> than the other Stemms.</p>
+               <pb n="28" facs="tcp:63185:20"/>
+               <p>
+                  <hi>Fourthly,</hi> The Wideneſs of theſe Stemms muſt be equal to their Heighth.</p>
+               <p>
+                  <hi>Fifthly,</hi> The Fulneſs of each Stroke muſt be equal to <hi>One Third</hi> of the Heighth of the Letters within Line.</p>
+               <p>
+                  <hi>Sixthly,</hi> The White of the Letters, or <hi>One Third</hi> of their Breadth, muſt be your diſtance between Letter and Letter; and the double thereof, between Word and Word: Except Two compaſs Letters come together in one Word, then they muſt be joyned cloſe.</p>
+               <p>
+                  <hi>Seventhly,</hi> The Diſtance of Lines muſt be <hi>Three Fifths</hi> of the <hi>Third</hi> of an Inch.</p>
+               <p>Your Deſires of <hi>Writing</hi> Well, and my Endeavours to ful<g ref="char:EOLhyphen"/>fill the ſame, being now accompliſhed; there remains no<g ref="char:EOLhyphen"/>thing of my Profeſſion, that may be any way ſerviceable.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>I have receiv'd a Letter from my <hi>Father;</hi> wherein is ſignified his Infinite Thanks, for your more deſerving Fa<g ref="char:EOLhyphen"/>vours: And I am thereby informed, That he has provided a <hi>Lawyer</hi> for my Maſter. And I doubt not, but that you will adviſe me, how to demean my ſelf ſo, as that I may not only pleaſe my Maſter; but alſo, may moſt advantage my ſelf in his Service.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>I'll tell you what pleaſed my Maſter; and, I doubt not, but that will pleaſe Yours.</p>
+               <p>
+                  <hi>Firſt</hi> then, Obſerve to write all Buſineſs in a good Chara<g ref="char:EOLhyphen"/>cter, clean and true.</p>
+               <p>
+                  <hi>Secondly</hi> Obſerve to diſpatch your Buſineſs in due Time; and to have every thing in readineſs, when he calls for it.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>Truly (<hi>Sir</hi>) this is not long in wording: But many times, a ſhort Demand requires a long Performance.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>Many times, a long Payment is made by a good Fore<g ref="char:EOLhyphen"/>caſt; which I adviſe you, to be ready at: In order to which, take theſe following <hi>Directions:</hi>
+               </p>
+               <p>
+                  <hi>Firſt,</hi> Be ſure to Write always up to the Character you have learn'd; and then, move your <hi>Pen</hi> as quick as you can.
+<pb n="29" facs="tcp:63185:20"/>This Courſe being obſerved, <hi>Practice</hi> will not only make you <hi>Write</hi> Quick, but Well alſo.</p>
+               <p>
+                  <hi>Secondly,</hi> Obſerve to keep your Study clean and neat; and let every thing therein be laid in its proper Place.</p>
+               <p>
+                  <hi>Thirdly,</hi> Be careful to Write true; avoiding thereby the razing out, and interlining of Words; which is very diſ<g ref="char:EOLhyphen"/>graceful, and may be of ill Conſequence, if it happen in any material Part of a Deed. But if it unluckily ſo happen, that, either by your Maſter's Amendment of what you are to Tranſcribe, or by your Negligence, you are forced to alter any Word after its written; if on Parchment, then, after it's perfectly dry, ſcratch out the Word with the Point of your Pen-knife; being careful therein to ſcratch away as little of the Parchment as you can, for fear of ſcratching through, or making it ſo thin, that it will not bear Ink: Then ſmooth it with your Pummis-Stone. And if you interline any Word, or Sentence, be careful to place rightly your Point of <hi>Induction.</hi> Write no material Word too nigh the Edge of your Paper, that being the ſooneſt prejudiced either by fretting, or tear<g ref="char:EOLhyphen"/>ing. When you have any Buſineſs of your Maſter's, be care<g ref="char:EOLhyphen"/>ful to imploy every moment of your Time therein: And be ſure to admit of no Recreation, till your Hands be freed of Buſineſs.</p>
+               <p>This Courſe being followed through the whole Progreſs of your <hi>Clerkſhip;</hi> I doubt not, but that you will pleaſe your Maſter, and bring Honour to your ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>
+                  <hi>Sir,</hi> I thank you; and I'll do my Endeavour, to pro<g ref="char:EOLhyphen"/>ſecute your Directions. Pray, <hi>Sir,</hi> be pleaſed alſo to give me ſome Directions, how to imploy my ſpare Minutes.</p>
+            </sp>
+            <sp>
+               <speaker>Mr.</speaker>
+               <p>Procure you Two <hi>Precedent</hi> Books; the One a <hi>Folio,</hi> the Other a <hi>Quarto:</hi> Page them both, and Margent them with Red Ink. At the End of your Books, Rule <hi>Ten</hi> or <hi>Twelve</hi> Leaves down the Middle on both ſides, with Red Ink, for your <hi>Table;</hi> which make Alphabetically: And in theſe Books, enter your <hi>Precedents:</hi> In the <hi>Folio,</hi> enter your
+<pb n="30" facs="tcp:63185:21"/>
+                  <hi>Precedents</hi> for <hi>Conveyancing;</hi> and in the Other, your <hi>Prece<g ref="char:EOLhyphen"/>dents</hi> for <hi>Pleading.</hi> And be ſure to let nothing that's new to you, paſs your Hands without a Copy. And if it chance, that, through the haſte of Buſineſs, you have not an Op<g ref="char:EOLhyphen"/>pertunity to take a Copy, unleſs you become Maſter of the Morning an Hour or two ſooner than you were wont; let neither Drowſineſs, nor Sloth, be any Impediment. And you will alſo do well, to ſpend a good part of your leaſure Hours in reading ſome profitable Books of the <hi>Law:</hi> And when you Read, endeavour to apprehend the Reaſon of Things; otherwiſe you will never be able to apply what you Read to your Practice. Sit when you Write; but Stand when you Read.</p>
+               <p>I ſhall now take my Leave, in hopes of your diligent Practice of thoſe Things I have been ſo free in diſcloſing; which will free you from the Diſgrace, that moſt juſtly at<g ref="char:EOLhyphen"/>tends thoſe that caſt off all the Buſineſs they can poſſible; and what they are forced to do, is performed in an impa<g ref="char:EOLhyphen"/>patient and ſlovenly Hurry: And when their Five, or more (thus ill imployed) Years are expired, with the loſs of, it may be, an <hi>Hundred</hi> Pound, they ſet up for themſelves, with no more Knowledge, than what will juſt ſerve the turn to promote an Action: And all the reſt of the Pro<g ref="char:EOLhyphen"/>ceeding, they leave to the ſecret Management of another; for which, it is to be feared, the Clyent pays very dear.</p>
+            </sp>
+         </div>
+         <div type="table_of_abbreviations">
+            <pb n="31" facs="tcp:63185:21"/>
+            <head>A TABLE OF Abbreviations.</head>
+            <p>SInce the Marks for <hi>Abbreviations</hi> cannot rightly be made by the <hi>Printer,</hi> you are to obſerve, That thoſe Letters placed after the Full-Points, muſt be <hi>written</hi> a little higher, than the other part of the Words: As, in the writing the Word <hi>Accepimus,</hi> there the <hi>s</hi> muſt be <hi>written</hi> above the <hi>m,</hi> and a little forward<g ref="char:EOLhyphen"/>er in the Line. And over the other <hi>Abbreviations,</hi> make a little Daſh with your Pen: But if the <hi>Abbre<g ref="char:EOLhyphen"/>viation</hi> be in the end of a Word, then turn your Daſh of <hi>Abbreviation</hi> from the ending of the laſt Letter.</p>
+            <pb n="32" facs="tcp:63185:22"/>
+            <list>
+               <head>A.</head>
+               <item>ACcepim.s accepimus</item>
+               <item>Aia anima</item>
+               <item>Auctem Authoritatem</item>
+               <item>Als aliis</item>
+               <item>A.o Anno</item>
+               <item>Arlorum Articulorum</item>
+               <item>Adio Adminiſtratio</item>
+               <item>Archini Archi-diaconi</item>
+               <item>Archi Arch-Angeli</item>
+               <item>Attach attachiatus</item>
+               <item>Attorn Attornatum</item>
+               <item>Ald alias dictus</item>
+               <item>Aſſign aſſignatis</item>
+               <item>Angl Angliae</item>
+               <item>Aſſias aſſiſas</item>
+               <item>Al alia</item>
+               <item>Ar Armiger</item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>Bacc Bacchalaurius</item>
+               <item>Bre breve</item>
+               <item>Be Beate</item>
+               <item>Ballia Balliva</item>
+               <item>Barr Barronettus</item>
+               <item>b ber</item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>Cathi Cathedrali</item>
+               <item>Canoice Canonice</item>
+               <item>Com Comitatus</item>
+               <item>Con.ri Conſiſtorii</item>
+               <item>Can.cis Cancellariis</item>
+               <item>Capcoe captione</item>
+               <item>Cu cum</item>
+               <item>Con.ria contraria</item>
+               <item>c' cer</item>
+               <item>Caa cauſa</item>
+               <item>Con.m Conjunctim</item>
+               <item>Con.a contra</item>
+               <item>Clico Clerico</item>
+               <item>Cois communis</item>
+               <item>Cer.o certificatorio</item>
+               <item>Crie crimine</item>
+               <item>Cio citatio</item>
+               <item>Cribus criminibus</item>
+               <item>Captlo Capitulo</item>
+               <item>Canſs cauſis</item>
+               <item>Cur Curia</item>
+               <item>Cogn cognovit</item>
+               <item>Cons conſuetudinem</item>
+               <item>Coron coronam</item>
+               <item>Ca Catalla</item>
+            </list>
+            <pb n="33" facs="tcp:63185:22"/>
+            <list>
+               <head>D.</head>
+               <item>Dioc Dioceſia</item>
+               <item>Dia Divina</item>
+               <item>Dco dicto</item>
+               <item>Div.m diviſim</item>
+               <item>Defunct defunctus</item>
+               <item>Dni Domini</item>
+               <item>Dilco dilecto</item>
+               <item>Depto deputato</item>
+               <item>Dic dicit</item>
+               <item>Dimid dimidium</item>
+               <item>Dampn damnum</item>
+               <item>Debm debitum</item>
+               <item>Def defendens</item>
+               <item>Dirci directi</item>
+               <item>Dign dignitatem</item>
+               <item>Delibacoem deliberationem</item>
+            </list>
+            <list>
+               <head>E.</head>
+               <item>Eccliae Eccleſiae</item>
+               <item>Effcm effectum</item>
+               <item>Epus Epiſcopus</item>
+               <item>Eor eorum</item>
+               <item>Exit exhibitus</item>
+               <item>ee eſſe</item>
+               <item>Excoicaco Excommunicatie</item>
+               <item>Exhibico exhibitio</item>
+               <item>Epale Epiſcopale</item>
+            </list>
+            <list>
+               <head>F.</head>
+               <item>Fco facto</item>
+               <item>Fidelr fideliter</item>
+               <item>Firmr firmiter</item>
+               <item>Frm fratrem</item>
+               <item>Fuer fuerit</item>
+               <item>Flo falſo</item>
+               <item>Felon felonia</item>
+               <item>Franc Franciae</item>
+               <item>Fac Facias</item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>Gra Gratia</item>
+               <item>Grnalem generalem</item>
+               <item>Gaol gaolam</item>
+               <item>Gen generoſus</item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>Hita habita</item>
+               <item>Humoi hujuſmodi</item>
+               <item>Het habet</item>
+               <pb n="34" facs="tcp:63185:23"/>
+               <item>Hoies homines</item>
+               <item>Hens habens</item>
+               <item>Hend habendum</item>
+               <item>Huit habuit</item>
+               <item>Hibniae Hiberniae</item>
+            </list>
+            <list>
+               <head>I.</head>
+               <item>Informacoe informatione</item>
+               <item>Ibm ibidem</item>
+               <item>Igr igitur</item>
+               <item>Inſtrum.tu inſtrumentum</item>
+               <item>Ipo ipſo</item>
+               <item>Juriſnis juriſdictionis</item>
+               <item>Jux juxta</item>
+               <item>Illi.mi illuſtriſſimi</item>
+               <item>Inven.ry Inventory</item>
+               <item>Jur Juratores</item>
+               <item>Juſtic Juſtitiariis</item>
+               <item>Ill illa</item>
+               <item>Io ideo</item>
+               <item>Injur injuriam</item>
+               <item>Intellco intellecto</item>
+               <item>Inſpco inſpecto</item>
+               <item>Inperpm inperpetuum</item>
+               <item>Indict' indictatus</item>
+               <item>Irrotlat irrotulatum</item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>Lras literas</item>
+               <item>Lia lientia</item>
+               <item>Littime Legitines</item>
+               <item>Lilo Libello</item>
+               <item>Leglis Legalis</item>
+               <item>Libe Libere</item>
+               <item>Lco Lecto</item>
+               <item>Libtat' Libertatem</item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>Mie mininte</item>
+               <item>Mronia Matrimonia</item>
+               <item>Mr Magiſter</item>
+               <item>Ma.ti Majeſtati</item>
+               <item>Millnio Milleſimo</item>
+               <item>Mo modo</item>
+               <item>Magri Magiſtri</item>
+               <item>Mil Miles</item>
+               <item>Mia Miſericordia</item>
+            </list>
+            <list>
+               <head>N.</head>
+               <item>Nra noſtra</item>
+               <item>Noie nomine</item>
+               <pb n="35" facs="tcp:63185:23"/>
+               <item>Norio Notario.</item>
+               <item>Necc.ria neceſſaria</item>
+               <item>Narr Narratio</item>
+            </list>
+            <list>
+               <head>O.</head>
+               <item>Oem omnem</item>
+               <item>Oibus omnibus</item>
+               <item>Offilis Officialis</item>
+               <item>Octogmo Octogeſſimo</item>
+               <item>Oiodas omnimodas</item>
+               <item>Obl Obligatio</item>
+               <item>Occone occcaſione</item>
+               <item>Omitt omittas</item>
+            </list>
+            <list>
+               <head>P.</head>
+               <item>Paroch Parochia</item>
+               <item>P'r pre</item>
+               <item>P.rdcus praedictus</item>
+               <item>Perſonalr perſonaliter</item>
+               <item>Ptate poteſtate</item>
+               <item>Prone Patrone</item>
+               <item>Permioe permiſſione</item>
+               <item>Pntes praeſentes</item>
+               <item>Pubce publice</item>
+               <item>Pr pater</item>
+               <item>Paroli Parochiali</item>
+               <item>Pr.cures procuratores</item>
+               <item>Poſſonem poſſeſſionem</item>
+               <item>P'pue praecipue</item>
+               <item>Popli populi</item>
+               <item>Pr.onus Patronus</item>
+               <item>Priam Patriam</item>
+               <item>Plito placito</item>
+               <item>Pertin pertinentiis</item>
+               <item>Produc producit</item>
+               <item>P.t poſt</item>
+               <item>Propr propria</item>
+               <item>P.rfat' praefatus</item>
+               <item>Pet petit</item>
+               <item>Periclo periculo</item>
+               <item>Proclam Proclamationem</item>
+               <item>Praec praeceptum</item>
+               <item>Pros Proſecutor.</item>
+            </list>
+            <list>
+               <head>Q.</head>
+               <item>Qd quod</item>
+               <item>Quatus quatenus</item>
+               <item>Q.o quo</item>
+               <item>Quolt quolibet</item>
+               <item>Quer querens</item>
+            </list>
+            <list>
+               <head>R.</head>
+               <item>Rcor Rector.</item>
+               <item>Rone ratione</item>
+               <pb n="36" facs="tcp:63185:24"/>
+               <item>Rhdus Reverendus</item>
+               <item>Reverendmo Reverendiſſimo</item>
+               <item>Regr Regiſter</item>
+               <item>Rs Regis</item>
+               <item>Rondend Reſpondendum</item>
+               <item>Retoru retornatum</item>
+               <item>Rotlorum rotulorum</item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>Saltm ſalutem</item>
+               <item>Spualibus ſpiritualibus</item>
+               <item>Sacrm Sacramentum</item>
+               <item>Scdm ſecundum</item>
+               <item>Sexcen.mo Sexcenteſſimo</item>
+               <item>Spicats ſpecificatis</item>
+               <item>Spialitr ſpecialiter</item>
+               <item>Soleizari ſolemnizari</item>
+               <item>Scaecii ſcaccarii</item>
+               <item>Succeſsſs. ſucceſſoribus</item>
+               <item>Sci Sancti</item>
+               <item>Scrut ſcrutinio</item>
+               <item>Summ ſummonitus</item>
+               <item>Sequen ſequentem</item>
+               <item>Scilt Scilicet</item>
+               <item>Sile ſimile</item>
+               <item>Spec ſpecificatim</item>
+               <item>Seiam ſeſeinam</item>
+               <item>Scoc Scotiae</item>
+               <item>Surr Surrogatus</item>
+               <item>Sabti Sabbathi</item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>Teſtam.to Teſtamento</item>
+               <item>Tot totam</item>
+               <item>Titlum titulum</item>
+               <item>Tnſgr tranſgreſſio</item>
+               <item>Tenta Tenementa</item>
+               <item>T teſte</item>
+               <item>Tli tali</item>
+               <item>Tm tam</item>
+               <item>Tles tales</item>
+               <item>Tmio termino</item>
+            </list>
+            <list>
+               <head>V.</head>
+               <item>Vrae Veſtrae</item>
+               <item>
+                  <g ref="char:V">Ʋ</g>bilet ubilibet</item>
+               <item>Vic Vicarius</item>
+               <item>Venlis venerabilis</item>
+               <item>Val Valentiam</item>
+               <item>Vic Vicecomes</item>
+               <item>Viſn Viſenenetto</item>
+               <item>Vill villa</item>
+               <item>
+                  <g ref="char:V">Ʋ</g>x <g ref="char:V">Ʋ</g>xor.</item>
+            </list>
+            <pb n="37" facs="tcp:63185:24"/>
+            <list>
+               <head>W.</head>
+               <item>Weſtm Weſtmonaſterium</item>
+            </list>
+            <list>
+               <head>X.</head>
+               <item>Xpo Chriſto</item>
+               <item>Xaru Decimarum</item>
+            </list>
+            <list>
+               <item>Anthus Antonius</item>
+               <item>Aug.tus Auguſtus</item>
+               <item>Barthus Bartholomeus</item>
+               <item>Clens Clemens</item>
+               <item>Edrus Edwardus</item>
+               <item>Edmus Edmundus</item>
+               <item>Francus Franciſcus</item>
+               <item>Galfrus Galfridus</item>
+               <item>Hencus Henricus</item>
+               <item>Humfrus Humfridus</item>
+               <item>Herbtus Herbertus</item>
+               <item>Johes Johannes</item>
+               <item>Luicus Ludovicus</item>
+               <item>Michis Michaelis</item>
+               <item>Matthus Mattheus</item>
+               <item>Nichus Nicholaus</item>
+               <item>Phus Philippus</item>
+               <item>Ricus Richardus</item>
+               <item>Robtus Robertus</item>
+               <item>Radus Radulphus</item>
+               <item>Randus Randulphus</item>
+               <item>Rogus Rogerus</item>
+               <item>Theophus Theophilus</item>
+               <item>Willus Gulielmus</item>
+               <item>Xpian Chriſtian</item>
+               <item>Xpopher Chriſtopher</item>
+               <item>Zathas Zacharias</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:63185:25"/>
+            <head>Books Printed for, and Sold by <hi>Luke Mere<g ref="char:EOLhyphen"/>dith,</hi> at the <hi>King's Head</hi> in St. <hi>Paul's Church-yard.</hi>
+            </head>
+            <p>
+               <hi>RHetoricae Libri Duo: Quorum Prior de</hi> Tropis <hi>&amp;</hi> Figuris, <hi>Poſterior</hi> de Voce <hi>&amp;</hi> Geſtu <hi>praecipit. In uſum Scholarum poſtremo recogniti, infinitiſque paeni mendis expurgati. Autore</hi> Ca<g ref="char:EOLhyphen"/>rolo Butlero, <hi>Magd. Artium Magiſtro.</hi>
+            </p>
+            <p>The Songs of <hi>Moſes</hi> and <hi>Deborah</hi> Paraphras'd; with <hi>Poems</hi> on ſeveral Occaſions. Never before Publiſhed. To which is added, A <hi>Pindarick</hi> on Mr. <hi>L'Eſtrange.</hi>
+            </p>
+            <p>A Dialogue between a Paſtor and his Pariſhioner, touching the <hi>Lord</hi>'s <hi>Supper.</hi>
+            </p>
+            <p>Two Treatiſes: The <hi>Firſt,</hi> Concerning <hi>Reproaching</hi> and <hi>Cenſure<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> The <hi>Second,</hi> An <hi>Anſwer</hi> to Mr. <hi>Serjeant's Sure-Foot<g ref="char:EOLhyphen"/>ing.</hi> To which are annexed, <hi>Three, Sexmons</hi> Preached upon ſeveral Occaſions; and very uſeful for theſe Times. By the late Learned and Reverend <hi>William Falkner,</hi> D. D.</p>
+            <p>An Introduction to the <hi>Old Engliſh Hiſtory,</hi> comprehended in Three ſeveral Tracts: The <hi>Firſt,</hi> An Anſwer to Mr. <hi>Pe<g ref="char:EOLhyphen"/>tyt</hi>'s <hi>Rights of the Commons Aſſerted;</hi> and to a Book, Entitu<g ref="char:EOLhyphen"/>led, <hi>Jani Anglorum Facies Nova:</hi> The Second Edition very much enlarged. The <hi>Second,</hi> An Anſwer to a Book, Entitu<g ref="char:EOLhyphen"/>led, <hi>Argumentum Antinormanicum;</hi> much upon the ſame Sub<g ref="char:EOLhyphen"/>ject: Never before Publiſhed. The <hi>Third,</hi> The Exact Hiſto<g ref="char:EOLhyphen"/>ry of the <hi>Succeſſion</hi> of the <hi>Crown</hi> of <hi>England:</hi> The Second Edi<g ref="char:EOLhyphen"/>tion, alſo very much enlarged. Together, with an <hi>Appendix,</hi> containing ſeveral Records, and a Series of <hi>Great Councils</hi> and <hi>Parliaments,</hi> Before and After the <hi>Conqueſt,</hi> unto the End of the Reign of <hi>Henry</hi> the Third. And a <hi>Gloſſary,</hi> expounding many Words, uſed frequently in our Antient Records, Laws, and Hiſtorians. Publiſhed for the <hi>Vindication</hi> of <hi>Truth,</hi> and the <hi>Aſſiſtance</hi> of ſuch as deſire with Satisfaction to read, and truly underſtand the Antient <hi>Engliſh Hiſtorians,</hi> and other Pie<g ref="char:EOLhyphen"/>ces of Antiquity. By <hi>Robert Brady,</hi> Doctor in Phyſick.</p>
+            <pb facs="tcp:63185:25"/>
+         </div>
+      </back>
+   </text>
+</TEI>
